@@ -19,7 +19,10 @@
     "cover": "{COVER_URL}/0.png",
     "url": "{HTML_URL}/0.html",
     "author": "MDTravis, Giovanni.gen",
-    "authorLink": "https://shc.zone/entries/contest2025/1210"
+    "authorLink": "https://shc.zone/entries/contest2025/1210",
+    "special": [
+      "emulator"
+    ]
   },
 {
     "id": 1,
@@ -27,7 +30,10 @@
     "cover": "{COVER_URL}/1.png",
     "url": "{HTML_URL}/1.html",
     "author": "JvneTh",
-    "authorLink": "https://shc.zone/entries/contest2025/1212"
+    "authorLink": "https://shc.zone/entries/contest2025/1212",
+    "special": [
+      "emulator"
+    ]
   },
 {
     "id": 2,
@@ -35,7 +41,10 @@
     "cover": "{COVER_URL}/2.png",
     "url": "{HTML_URL}/2.html",
     "author": "RetroKoH",
-    "authorLink": "https://shc.zone/entries/contest2025/1379"
+    "authorLink": "https://shc.zone/entries/contest2025/1379",
+    "special": [
+      "emulator"
+    ]
   },
 {
     "id": 3,
@@ -43,7 +52,10 @@
     "cover": "{COVER_URL}/3.png",
     "url": "{HTML_URL}/3.html",
     "author": "Netkil",
-    "authorLink": "https://www.youtube.com/@netkilrblx"
+    "authorLink": "https://www.youtube.com/@netkilrblx",
+    "special": [
+      "emulator"
+    ]
   },
 {
     "id": 4,
@@ -51,7 +63,10 @@
     "cover": "{COVER_URL}/4.png",
     "url": "{HTML_URL}/4.html",
     "author": "Giovanni.gen",
-    "authorLink": "https://sonicresearch.org/community/index.php?threads/random-hack-mini-project-thread.3230/page-45#post-89311"
+    "authorLink": "https://sonicresearch.org/community/index.php?threads/random-hack-mini-project-thread.3230/page-45#post-89311",
+    "special": [
+      "emulator"
+    ]
   },
 {
     "id": 5,
@@ -59,7 +74,10 @@
     "cover": "{COVER_URL}/5.png",
     "url": "{HTML_URL}/5.html",
     "author": "Pluto from the hit game OMORI",
-    "authorLink": "https://omori.fandom.com/wiki/PLUTO"
+    "authorLink": "https://omori.fandom.com/wiki/PLUTO",
+    "special": [
+      "emulator"
+    ]
   },
 {
     "id": 6,
@@ -67,7 +85,10 @@
     "cover": "{COVER_URL}/6.png",
     "url": "{HTML_URL}/6.html",
     "author": "Flamewing",
-    "authorLink": "https://info.sonicretro.org/Sonic_Classic_Heroes"
+    "authorLink": "https://info.sonicretro.org/Sonic_Classic_Heroes",
+    "special": [
+      "emulator"
+    ]
   },
 {
     "id": 7,
@@ -75,7 +96,10 @@
     "cover": "{COVER_URL}/7.png",
     "url": "{HTML_URL}/7.html",
     "author": "Team MegaMix",
-    "authorLink": "https://www.headcannon.com/TeamMegamix/index.php?p=mm_home"
+    "authorLink": "https://www.headcannon.com/TeamMegamix/index.php?p=mm_home",
+    "special": [
+      "emulator"
+    ]
   },
 {
     "id": 8,
@@ -83,7 +107,10 @@
     "cover": "{COVER_URL}/8.png",
     "url": "{HTML_URL}/8.html",
     "author": "Toby Fox",
-    "authorLink": "https://deltarune.com/"
+    "authorLink": "https://deltarune.com/",
+    "special": [
+      "port"
+    ]
   },
 {
     "id": 9,
@@ -99,6 +126,9 @@
     "cover": "{COVER_URL}/0.png",
     "url": "{HTML_URL}/0.html",
     "author": "Toby Fox",
-    "authorLink": "https://undertale.com/"
+    "authorLink": "https://undertale.com/",
+    "special": [
+      "port"
+    ]
   }
 ]
