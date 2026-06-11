@@ -123,8 +123,8 @@
 {
     "id": 10,
     "name": "Undertale",
-    "cover": "{COVER_URL}/0.png",
-    "url": "{HTML_URL}/0.html",
+    "cover": "{COVER_URL}/10.png",
+    "url": "{HTML_URL}/10.html",
     "author": "Toby Fox",
     "authorLink": "https://undertale.com/",
     "special": [
