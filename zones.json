@@ -130,5 +130,109 @@
     "special": [
       "port"
     ]
-  }
+  },
+ {
+    "id": 11,
+    "name": "DOOMORI",
+    "cover": "{COVER_URL}/11.png",
+    "url": "{HTML_URL}/11.html",
+    "author": "Totally Fungal",
+    "authorLink": "https://totally-fungal.itch.io/doomori",
+    "special": [
+      "port"
+    ]
+  },
+{
+    "id": 12,
+    "name": "Fleur de Lis EP1",
+    "cover": "{COVER_URL}/12.png",
+    "url": "{HTML_URL}/12.html",
+    "author": "Ethan Cinemint Hill",
+    "authorLink": "https://www.loor.tv/show/fleur-de-lis",
+    "special": [
+      "emulator"
+    ]
+  },
+{
+    "id": 13,
+    "name": "Sonic Worlds Next",
+    "cover": "{COVER_URL}/13.png",
+    "url": "{HTML_URL}/13.html",
+    "author": "Technokami",
+    "authorLink": "https://github.com/Techokami/SonicWorldsNext",
+    "special": [
+      "port"
+    ]
+  },
+{
+    "id": 14,
+    "name": "Doki Doki Literature Club",
+    "cover": "{COVER_URL}/14.png",
+    "url": "{HTML_URL}/14.html",
+    "author": "Team Salvato",
+    "authorLink": "https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/",
+    "special": [
+      "port"
+    ]
+  },
+{
+    "id": 15,
+    "name": "I HATE YOU",
+    "cover": "{COVER_URL}/15.png",
+    "url": "{HTML_URL}/15.html",
+    "author": "Ersanio, Nintendo",
+    "authorLink": "https://www.smwcentral.net/?p=section&a=details&id=13943",
+    "special": [
+      "emulator"
+    ]
+  },
+{
+    "id": 16,
+    "name": "Doki Boom Dash",
+    "cover": "{COVER_URL}/16.png",
+    "url": "{HTML_URL}/16.html",
+    "author": "mokadevs",
+    "authorLink": "https://mokadevs.itch.io/doki-boom-dash",
+  },
+{
+    "id": 17,
+    "name": "Undyne Simulator",
+    "cover": "{COVER_URL}/17.png",
+    "url": "{HTML_URL}/17.html",
+    "author": "Joe Zeng",
+    "authorLink": "https://sans-simulator.github.io/undyne-simulator/",
+  },
+{
+    "id": 18,
+    "name": "FNF DDTO Plus",
+    "cover": "{COVER_URL}/18.png",
+    "url": "{HTML_URL}/18.html",
+    "author": "Team TBD",
+    "authorLink": "https://gamebanana.com/mods/47364/",
+    "special": [
+      "fnf"
+    ]
+  },
+{
+    "id": 19,
+    "name": "Kaizo Sonic 2",
+    "cover": "{COVER_URL}/19.png",
+    "url": "{HTML_URL}/19.html",
+    "author": "KaikeKTH",
+    "authorLink": "https://sonicresearch.org/community/index.php?threads/kaizo-sonic-2-official-full-launch.7333/"
+     "special": [
+      "emulator"
+    ]
+  },
+{
+    "id": 20,
+    "name": "Gachaverse",
+    "cover": "{COVER_URL}/20.png",
+    "url": "{HTML_URL}/20.html",
+    "author": "Lunime",
+    "authorLink": "https://lunime.itch.io/gachaverse/",
+    "special": [
+      "flash"
+    ]
+  },
 ]
