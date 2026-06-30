@@ -146,7 +146,7 @@
     "id": 12,
     "name": "Fleur de Lis EP1",
     "cover": "{COVER_URL}/12.png",
-    "url": "{HTML_URL}/12.html",
+    "url": "{HTML_URL}/12-f.html",
     "author": "Ethan Cinemint Hill",
     "authorLink": "https://www.loor.tv/show/fleur-de-lis",
     "special": [
@@ -179,7 +179,7 @@
     "id": 15,
     "name": "I HATE YOU",
     "cover": "{COVER_URL}/15.png",
-    "url": "{HTML_URL}/15.html",
+    "url": "{HTML_URL}/15-f.html",
     "author": "Ersanio, Nintendo",
     "authorLink": "https://www.smwcentral.net/?p=section&a=details&id=13943",
     "special": [
