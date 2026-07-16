@@ -264,5 +264,13 @@
     "special": [
       "port"
     ]
-  }
+  },
+   {
+    "id": 24,
+    "name": "Yohoho.io",
+    "cover": "{COVER_URL}/24.png",
+    "url": "{HTML_URL}/24.html",
+    "author": "Exodragon Games",
+    "authorLink": "https://yohoho.io"
+  },
 ]
