@@ -234,5 +234,24 @@
     "special": [
       "flash"
     ]
+  },
+  {
+    "id": 21,
+    "name": "Sprunki",
+    "cover": "{COVER_URL}/21.png",
+    "url": "{HTML_URL}/21.html",
+    "author": "NyankoBfLol",
+    "authorLink": "https://www.cocrea.world/@NyankoBfLmao"
+  },
+   {
+    "id": 22,
+    "name": "Friday Night Funkin",
+    "cover": "{COVER_URL}/22.png",
+    "url": "{HTML_URL}/22.html",
+    "author": "ninja-muffin24",
+    "authorLink": "https://ninja-muffin24.itch.io/funkin",
+    "special": [
+      "fnf"
+    ]
   }
 ]
