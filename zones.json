@@ -5,13 +5,15 @@
     "cover": "{COVER_URL}/-2.png",
     "url": "{HTML_URL}/-2.html",
     "author": "Alvin from Alvin and The Chipmunks",
-    "authorLink": "https://youtu.be/CK3AnCC9P7I?si=bc2wkgG7bUkmomjY&t=97"
+    "authorLink": "https://youtu.be/CK3AnCC9P7I?si=bc2wkgG7bUkmomjY&t=97",
+    "featured": true,
   },
 {
     "id": -1,
     "name": "[!] MORE FUN AT .gg/ZF4YZZCbZ6",
     "cover": "https://cdn.jsdelivr.net/gh/daknux/assets@main/dc.png",
-    "url": "https://discord.gg/ZF4YZZCbZ6"
+    "url": "https://discord.gg/ZF4YZZCbZ6",
+    "featured": true,
   },
 {
     "id": 0,
@@ -75,6 +77,7 @@
     "url": "{HTML_URL}/5.html",
     "author": "Pluto from the hit game OMORI",
     "authorLink": "https://omori.fandom.com/wiki/PLUTO",
+    "featured": true,
     "special": [
       "emulator"
     ]
@@ -86,6 +89,7 @@
     "url": "{HTML_URL}/6-fa.html",
     "author": "Flamewing",
     "authorLink": "https://info.sonicretro.org/Sonic_Classic_Heroes",
+    "featured": true,
     "special": [
       "emulator"
     ]
@@ -97,6 +101,7 @@
     "url": "{HTML_URL}/7.html",
     "author": "Team MegaMix",
     "authorLink": "https://www.headcannon.com/TeamMegamix/index.php?p=mm_home",
+    "featured": true,
     "special": [
       "emulator"
     ]
@@ -108,6 +113,7 @@
     "url": "{HTML_URL}/8.html",
     "author": "Toby Fox",
     "authorLink": "https://deltarune.com/",
+    "featured": true,
     "special": [
       "port"
     ]
@@ -127,6 +133,7 @@
     "url": "{HTML_URL}/10.html",
     "author": "Toby Fox",
     "authorLink": "https://undertale.com/",
+    "featured": true,
     "special": [
       "port"
     ]
@@ -138,6 +145,7 @@
     "url": "{HTML_URL}/11.html",
     "author": "Totally Fungal",
     "authorLink": "https://totally-fungal.itch.io/doomori",
+    "featured": true,
     "special": [
       "port"
     ]
@@ -171,6 +179,7 @@
     "url": "{HTML_URL}/14.html",
     "author": "Team Salvato",
     "authorLink": "https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/",
+    "featured": true,
     "special": [
       "port"
     ]
@@ -241,7 +250,8 @@
     "cover": "{COVER_URL}/21.png",
     "url": "{HTML_URL}/21.html",
     "author": "NyankoBfLol",
-    "authorLink": "https://www.cocrea.world/@NyankoBfLmao"
+    "authorLink": "https://www.cocrea.world/@NyankoBfLmao",
+    "featured": true,
   },
    {
     "id": 22,
@@ -250,6 +260,7 @@
     "url": "{HTML_URL}/22.html",
     "author": "ninja-muffin24",
     "authorLink": "https://ninja-muffin24.itch.io/funkin",
+    "featured": true,
     "special": [
       "fnf"
     ]
@@ -280,6 +291,7 @@
     "url": "{HTML_URL}/25.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com",
+    "featured": true,
     "special": [
       "port"
     ]
@@ -291,6 +303,7 @@
     "url": "{HTML_URL}/26.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com",
+    "featured": true,
     "special": [
       "port"
     ]
@@ -302,6 +315,7 @@
     "url": "{HTML_URL}/27.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com",
+    "featured": true,
     "special": [
       "port"
     ]
@@ -313,6 +327,7 @@
     "url": "{HTML_URL}/28.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com",
+    "featured": true,
     "special": [
       "port"
     ]
@@ -348,6 +363,7 @@
     "url": "{HTML_URL}/31.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com",
+    "featured": true,
     "special": [
       "port"
     ]
