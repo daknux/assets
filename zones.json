@@ -6,14 +6,14 @@
     "url": "{HTML_URL}/-2.html",
     "author": "Alvin from Alvin and The Chipmunks",
     "authorLink": "https://youtu.be/CK3AnCC9P7I?si=bc2wkgG7bUkmomjY&t=97",
-    "featured": true,
+    "featured": true
   },
 {
     "id": -1,
     "name": "[!] MORE FUN AT .gg/ZF4YZZCbZ6",
     "cover": "https://cdn.jsdelivr.net/gh/daknux/assets@main/dc.png",
     "url": "https://discord.gg/ZF4YZZCbZ6",
-    "featured": true,
+    "featured": true
   },
 {
     "id": 0,
@@ -251,7 +251,7 @@
     "url": "{HTML_URL}/21.html",
     "author": "NyankoBfLol",
     "authorLink": "https://www.cocrea.world/@NyankoBfLmao",
-    "featured": true,
+    "featured": true
   },
    {
     "id": 22,
@@ -260,6 +260,7 @@
     "url": "{HTML_URL}/22.html",
     "author": "ninja-muffin24",
     "authorLink": "https://ninja-muffin24.itch.io/funkin",
+    "featured": true,
     "special": [
       "fnf"
     ]
