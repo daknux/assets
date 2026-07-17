@@ -272,5 +272,106 @@
     "url": "{HTML_URL}/24.html",
     "author": "Exodragon Games",
     "authorLink": "https://yohoho.io"
+  },
+ {
+    "id": 25,
+    "name": "Five Nights at Freddy's",
+    "cover": "{COVER_URL}/25.png",
+    "url": "{HTML_URL}/25.html",
+    "author": "Scott Cawthon",
+    "authorLink": "https://scottgames.com",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Five Nights at Freddy's 2",
+    "cover": "{COVER_URL}/26.png",
+    "url": "{HTML_URL}/26.html",
+    "author": "Scott Cawthon",
+    "authorLink": "https://scottgames.com",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Five Nights at Freddy's 3",
+    "cover": "{COVER_URL}/27.png",
+    "url": "{HTML_URL}/27.html",
+    "author": "Scott Cawthon",
+    "authorLink": "https://scottgames.com",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Five Nights at Freddy's 4",
+    "cover": "{COVER_URL}/28.png",
+    "url": "{HTML_URL}/28.html",
+    "author": "Scott Cawthon",
+    "authorLink": "https://scottgames.com",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 29,
+    "name": "Five Nights at Freddy's: Sister Location",
+    "cover": "{COVER_URL}/29.png",
+    "url": "{HTML_URL}/29.html",
+    "author": "Scott Cawthon",
+    "authorLink": "https://scottgames.com",
+    "featured": true,
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 30,
+    "name": "Five Nights at Freddy's: Pizza Simulator",
+    "cover": "{COVER_URL}/30.png",
+    "url": "{HTML_URL}/30.html",
+    "author": "Scott Cawthon",
+    "authorLink": "https://scottgames.com",
+    "featured": true,
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 31,
+    "name": "Five Nights at Freddy's: Ultimate Custom Night",
+    "cover": "{COVER_URL}/31.png",
+    "url": "{HTML_URL}/31.html",
+    "author": "Scott Cawthon",
+    "authorLink": "https://scottgames.com",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 32,
+    "name": "Five Nights at Freddy's: World",
+    "cover": "{COVER_URL}/32.png",
+    "url": "{HTML_URL}/32.html",
+    "author": "Scott Cawthon",
+    "authorLink": "https://scottgames.com",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 33,
+    "name": "Five Nights at Freddy's 4: Halloween",
+    "cover": "{COVER_URL}/33.png",
+    "url": "{HTML_URL}/33.html",
+    "author": "Scott Cawthon",
+    "authorLink": "https://scottgames.com",
+    "special": [
+      "port"
+    ]
   }
 ]
