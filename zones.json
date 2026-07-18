@@ -389,5 +389,80 @@
     "special": [
       "port"
     ]
+  },
+ {
+    "id": 34,
+    "name": "Geometry Dash Lite (REMAKE)",
+    "cover": "{COVER_URL}/34.png",
+    "url": "{HTML_URL}/34.html",
+    "author": "RobTop Games",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.robtopx.geometryjumplite",
+    "featured": true
+  },
+ {
+    "id": 35,
+    "name": "OMORI",
+    "cover": "{COVER_URL}/35.png",
+    "url": "{HTML_URL}/35.html",
+    "author": "Omocat",
+    "authorLink": "https://omocat.com",
+    "featured": true,
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 36,
+    "name": "Pizza Tower",
+    "cover": "{COVER_URL}/36.png",
+    "url": "{HTML_URL}/36.html",
+    "author": "Tour De Pizza, BurnedPopcorn",
+    "authorLink": "https://store.steampowered.com/app/2231450/Pizza_Tower/",
+    "featured": true,
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Pizza Tower: Scoutdigo",
+    "cover": "{COVER_URL}/37.png",
+    "url": "{HTML_URL}/37.html",
+    "author": "only1indigo, burnedpopcorn",
+    "authorLink": "https://gamebanana.com/wips/75923",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Sugary Spire: UNHAM",
+    "cover": "{COVER_URL}/38.png",
+    "url": "{HTML_URL}/38.html",
+    "author": "Jon9l, burnedpopcorn",
+    "authorLink": "https://jon9l.itch.io/sugary-spire-unham-mod",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Sonic.EXE (ORIGINAL)",
+    "cover": "{COVER_URL}/39.png",
+    "url": "{HTML_URL}/39.html",
+    "author": "MY5TCrimson",
+    "authorLink": "https://gamejolt.com/games/sonic-exe-the-game/16239",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 40,
+    "name": "Rooftop Snipers",
+    "cover": "{COVER_URL}/40.png",
+    "url": "{HTML_URL}/40.html",
+    "author": "New Eich Games",
+    "authorLink": "https://www.neweichgames.com",
+    "featured": true,
   }
 ]
