@@ -471,7 +471,15 @@
     "cover": "{COVER_URL}/41.png",
     "url": "{HTML_URL}/41.html",
     "author": "Anonymous, credits to Mojang and Microsoft",
-    "authorLink": "https://tinyurl.com/mrxxw972",
+    "authorLink": "https://tinyurl.com/mrxxw972"
+  },
+   {
+    "id": 42,
+    "name": "Minecraft 1.12.2",
+    "cover": "{COVER_URL}/42.png",
+    "url": "{HTML_URL}/42.html",
+    "author": "fangame by LAX1DUDE, credits to Mojang and Microsoft",
+    "authorLink": "https://tinyurl.com/mueybjkn",
     "featured": true
   }
 ]
