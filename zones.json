@@ -449,7 +449,7 @@
     "id": 39,
     "name": "Sonic.EXE (ORIGINAL)",
     "cover": "{COVER_URL}/39.png",
-    "url": "{HTML_URL}/39.html",
+    "url": "{HTML_URL}/39-f.html",
     "author": "MY5TCrimson",
     "authorLink": "https://gamejolt.com/games/sonic-exe-the-game/16239",
     "special": [
@@ -481,5 +481,92 @@
     "author": "fangame by LAX1DUDE, credits to Mojang and Microsoft",
     "authorLink": "https://tinyurl.com/mueybjkn",
     "featured": true
-  }
+  },
+ {
+    "id": 43,
+    "name": "Meowio",
+    "cover": "{COVER_URL}/43.png",
+    "url": "{HTML_URL}/43.html",
+    "author": "Jeremy Penner",
+    "authorLink": "https://www.information-superhighway.net/meowio/",
+    "featured": true,
+    "special": [
+      "emulator"
+    ]
+  },
+ {
+    "id": 44,
+    "name": "Emulator.JS",
+    "cover": "{COVER_URL}/44.png",
+    "url": "{HTML_URL}/44.html",
+    "author": "Ethan O'Brien",
+    "authorLink": "https://emulatorjs.org/",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Emulator.JS 2",
+    "cover": "{COVER_URL}/45.png",
+    "url": "{HTML_URL}/45.html",
+    "author": "Claude O'Brien aka Ethan's Sister",
+    "authorLink": "https://emulatorjs.org/",
+    "special": [
+      "emulator"
+    ]
+  },
+ {
+    "id": 46,
+    "name": "Sonic 3 D.A. Garden Edition",
+    "cover": "{COVER_URL}/46.png",
+    "url": "{HTML_URL}/46.html",
+    "author": "D.A. Garden",
+    "authorLink": "https://sonichacking.org/vault/",
+    "featured": true,
+    "special": [
+      "emulator"
+    ]
+  },
+ {
+    "id": 47,
+    "name": "Sonic Boom",
+    "cover": "{COVER_URL}/47.png",
+    "url": "{HTML_URL}/47.html",
+    "author": "snkenjoi, iojnekns",
+    "authorLink": "https://archive.org/details/sonic_boom_202204",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Sonic on Bird Hill Island",
+    "cover": "{COVER_URL}/48.png",
+    "url": "{HTML_URL}/48.html",
+    "author": "Blue Gamer",
+    "authorLink": "https://shc.zone/entries/contest2025/1231",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 49,
+    "name": "Friendship: Sonic 2 Creepypasta DEMAKE",
+    "cover": "{COVER_URL}/49.png",
+    "url": "{HTML_URL}/49.html",
+    "author": "Blue Gamer",
+    "authorLink": "https://sonicresearch.org/community/index.php?threads/random-hack-mini-project-thread.3230/page-58#post-94462",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 50,
+    "name": "Sonic Revert",
+    "cover": "{COVER_URL}/50.png",
+    "url": "{HTML_URL}/50.html",
+    "author": "Taldius",
+    "authorLink": "https://taldius.itch.io/sonic"
+  },
 ]
