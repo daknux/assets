@@ -568,5 +568,39 @@
     "url": "{HTML_URL}/50.html",
     "author": "Taldius",
     "authorLink": "https://taldius.itch.io/sonic"
+  },
+ {
+    "id": 51,
+    "name": "Touhou 1 Touhou-Reiiden",
+    "cover": "{COVER_URL}/51.png",
+    "url": "{HTML_URL}/51.html",  
+    "author": "Jun'ya Ōta (\"ZUN\")",
+    "authorLink": "https://en.touhougarakuta.com/eastern-playing-en/toho-no-asobikata-en/",
+    "special": [
+      "emulator",
+      "dos"
+    ]
+  },
+  {
+    "id": 52,
+    "name": "The Peacekeeper",
+    "cover": "{COVER_URL}/52.png",
+    "url": "{HTML_URL}/52.html",
+    "author": "BerzerkStudio",
+    "authorLink": "https://www.kongregate.com/en/games/berzerkstudio/the-peacekeeper",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 53,
+    "name": "Cat Ninja",
+    "cover": "{COVER_URL}/53.png",
+    "url": "{HTML_URL}/53.html",
+    "author": "Richman Stewart",
+    "authorLink": "https://www.moddb.com/company/richman-stewart",
+    "special": [
+      "flash"
+    ]
   }
 ]
