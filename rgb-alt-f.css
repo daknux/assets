@@ -3,7 +3,7 @@
             font-weight: 500;
             font-style: noramal;
             font-size: 37px;
-            white-space: pre;
+            white-space: nowrap;
             animation: moveRight 4s linear infinite;
             letter-spacing: 0.5px;
             background: linear-gradient(
