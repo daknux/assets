@@ -602,5 +602,17 @@
     "special": [
       "flash"
     ]
+  },
+ {
+    "id": 54,
+    "name": "Sonic Erazor",
+    "cover": "{COVER_URL}/54.png",
+    "url": "{HTML_URL}/54.html",
+    "author": "Selbi",
+    "authorLink": "https://sonic-erazor.selbi.club/",
+    "featured": true,
+    "special": [
+      "emulator"
+    ]
   }
 ]
