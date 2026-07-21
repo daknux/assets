@@ -158,7 +158,8 @@
     "author": "Ethan Cinemint Hill",
     "authorLink": "https://www.loor.tv/show/fleur-de-lis",
     "special": [
-      "emulator"
+      "emulator",
+      "gba"
     ]
   },
 {
@@ -613,6 +614,65 @@
     "featured": true,
     "special": [
       "emulator"
+    ]
+  },
+ {
+    "id": 55,
+    "name": "Five Nights at Epstein's",
+    "cover": "{COVER_URL}/55.png",
+    "url": "{HTML_URL}/55.html",
+    "author": "EvanProductions",
+    "authorLink": "https://evanproductions.itch.io/five-nights-at-epsteins",
+    "special": [
+      "port"
+    ],
+    "featured": true
+  },
+ {
+    "id": 56,
+    "name": "Hollow Knight: Silksong",
+    "cover": "{COVER_URL}/56.png",
+    "url": "{HTML_URL}/56.html",
+    "author": "Team Cherry, Edurocks",
+    "authorLink": "https://www.teamcherry.com.au/",
+    "featured": true,
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 57,
+    "name": "Ecks VS. Sever",
+    "cover": "{COVER_URL}/57.png",
+    "url": "{HTML_URL}/57.html",
+    "author": "Crawfish Interactive, 	BAM! Entertainment",
+    "authorLink": "https://en.wikipedia.org/wiki/Ecks_vs._Sever/",
+    "special": [
+      "emulator",
+      "gba"
+    ]
+  },
+ {
+    "id": 58,
+    "name": "Fundamental Paper Novel",
+    "cover": "{COVER_URL}/58.png",
+    "url": "{HTML_URL}/58.html",
+    "author": "yakubell",
+    "authorLink": ":https://yakubelle.itch.io/fundamental-paper-novel",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 59,
+    "name": "Brotato",
+    "cover": "{COVER_URL}/59.png",
+    "url": "{HTML_URL}/59.html",
+    "author": "Blobfish, Individual/Stinkalistic",
+    "authorLink": "https://store.steampowered.com/app/1942280/Brotato/",
+    "featured": true,
+    "special": [
+      "port"
     ]
   }
 ]
