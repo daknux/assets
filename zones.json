@@ -674,5 +674,13 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 60,
+    "name": "Save P Diddy from Prison",
+    "cover": "{COVER_URL}/60.png",
+    "url": "{HTML_URL}/60.html",
+    "author": "Anonymous since yandex games does not let me see who made these delisted games",
+    "authorLink": "https://www.youtube.com/watch?v=P_1ohkk3aQM"
   }
 ]
