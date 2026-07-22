@@ -682,5 +682,16 @@
     "url": "{HTML_URL}/60.html",
     "author": "Anonymous since yandex games does not let me see who made these delisted games",
     "authorLink": "https://www.youtube.com/watch?v=P_1ohkk3aQM"
+  },
+ {
+    "id": 61,
+    "name": "Baby Felix Halloween",
+    "cover": "{COVER_URL}/61.png",
+    "url": "{HTML_URL}/61.html",
+    "author": "Bit Managers, Light and Shadow Productions",
+    "authorLink": "https://en.wikipedia.org/wiki/Bit_Managers/",
+    "special": [
+      "emulator"
+    ]
   }
 ]
