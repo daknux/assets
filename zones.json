@@ -716,5 +716,46 @@
     "special": [
       "port"
     ]
+  },
+ {
+    "id": 64,
+    "name": "Sonic 1 Master Edition 4 Final Phase",
+    "cover": "{COVER_URL}/64.png",
+    "url": "{HTML_URL}/64.html",
+    "author": "VegaLTE",
+    "authorLink": "https://www.mediafire.com/file/lsxd92n5h39tued/Sonic+1+-+Master+Edition+lV+-+Final+Phase.bin/",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 65,
+    "name": "I Wanna Be The Hedgehog",
+    "cover": "{COVER_URL}/65.png",
+    "url": "{HTML_URL}/65.html",
+    "author": "ArcaniaCQ",
+    "authorLink": "https://sonicresearch.org/community/index.php?threads/april-fools-2026-i-wanna-be-the-hedgehog.7380/",
+    "special": [
+      "emulator"
+    ]
+  },
+   {
+    "id": 66,
+    "name": "Sonic Scorched Quest",
+    "cover": "{COVER_URL}/66.png",
+    "url": "{HTML_URL}/66-f.html",
+    "author": "TeamPainto",
+    "authorLink": "https://shc.zone/vault/",
+    "special": [
+      "emulator"
+    ]
+  },
+ {
+    "id": 67,
+    "name": "Sprunki Sinner Edition",
+    "cover": "{COVER_URL}/67.png",
+    "url": "{HTML_URL}/67.html",
+    "author": "Harryaltered",
+    "authorLink": "https://www.youtube.com/watch?v=y3KguWPv_Q4/"
   }
 ]
