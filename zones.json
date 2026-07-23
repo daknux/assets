@@ -746,6 +746,7 @@
     "url": "{HTML_URL}/66-f.html",
     "author": "TeamPainto",
     "authorLink": "https://shc.zone/vault/",
+    "featured": true,
     "special": [
       "emulator"
     ]
