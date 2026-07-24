@@ -758,5 +758,61 @@
     "url": "{HTML_URL}/67.html",
     "author": "Harryaltered",
     "authorLink": "https://www.youtube.com/watch?v=y3KguWPv_Q4/"
+  },
+  {
+    "id": 68,
+    "name": "Run from Withered Foxy",
+    "cover": "{COVER_URL}/68.png",
+    "url": "{HTML_URL}/68.html",
+    "author": "DoodlebobonaPC",
+    "authorLink": "https://gamebanana.com/mods/641976/",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 69,
+    "name": "FNF: Sprunkin",
+    "cover": "{COVER_URL}/69.png",
+    "url": "{HTML_URL}/69.html",
+    "author": "RiverMusic",
+    "authorLink": "https://gamebanana.com/mods/548826/",
+    "special": [
+      "fnf"
+    ]
+  },
+ {
+    "id": 70,
+    "name": "FNF: City Funk",
+    "cover": "{COVER_URL}/70.png",
+    "url": "{HTML_URL}/70.html",
+    "author": "moon03z",
+    "authorLink": "https://gamebanana.com/mods/647200/",
+    "special": [
+      "fnf"
+    ]
+  },
+ {
+    "id": 71,
+    "name": "Five Fights at Freddy's",
+    "cover": "{COVER_URL}/71.png",
+    "url": "{HTML_URL}/71.html",
+    "author": "SilverCyberlink",
+    "authorLink": "https://five-nights-at-freddys-fanon.fandom.com/wiki/Five_Fights_at_Freddy%27s/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 72,
+    "name": "Angry Birds 2",
+    "cover": "{COVER_URL}/72.png",
+    "url": "{HTML_URL}/72.html",
+    "author": "Rovio",
+    "authorLink": "https://www.rovio.com/",
+    "featured": true,
+    "special": [
+      "port"
+    ]
   }
 ]
