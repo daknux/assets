@@ -210,7 +210,8 @@
     "cover": "{COVER_URL}/17.png",
     "url": "{HTML_URL}/17.html",
     "author": "Joe Zeng",
-    "authorLink": "https://sans-simulator.github.io/undyne-simulator/"
+    "authorLink": "https://sans-simulator.github.io/undyne-simulator/",
+    "featured": true
   },
 {
     "id": 18,
@@ -813,6 +814,39 @@
     "featured": true,
     "special": [
       "port"
+    ]
+  },
+ {
+    "id": 73,
+    "name": "MegaMan X",
+    "cover": "{COVER_URL}/73.png",
+    "url": "{HTML_URL}/73.html",
+    "author": "Capcom",
+    "authorLink": "https://www.capcom.com/",
+    "special": [
+      "emulator"
+    ]
+  },
+ {
+    "id": 74,
+    "name": "MegaMan X2",
+    "cover": "{COVER_URL}/74.png",
+    "url": "{HTML_URL}/74.html",
+    "author": "Capcom",
+    "authorLink": "https://www.capcom.com/",
+    "special": [
+      "emulator"
+    ]
+  },
+ {
+    "id": 75,
+    "name": "MegaMan X3",
+    "cover": "{COVER_URL}/75.png",
+    "url": "{HTML_URL}/75.html",
+    "author": "Capcom",
+    "authorLink": "https://www.capcom.com/",
+    "special": [
+      "emulator"
     ]
   }
 ]
