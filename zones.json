@@ -902,5 +902,478 @@
     "url": "{HTML_URL}/80.html",
     "author": "marketjs",
     "authorLink": "https://www.marketjs.com"
+  },
+{
+    "id": 81,
+    "name": "FNF vs Bob v2.0 (Bob’s Onslaught)",
+    "cover": "{COVER_URL}/81.png",
+    "url": "{HTML_URL}/81.html",
+    "author": "bob v2.0 team",
+    "authorLink": "https://gamebanana.com/mods/621085" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 82,
+    "name": "FNF vs Pibby Corrupted",
+    "cover": "{COVER_URL}/82.png",
+    "url": "{HTML_URL}/82.html",
+    "author": "Pibby Corrupted team",
+    "authorLink": "https://gamebanana.com/mods/download/344757" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 83,
+    "name": "FNF Vs. Sonic.EXE 3.0/4.0",
+    "cover": "{COVER_URL}/83.png",
+    "url": "{HTML_URL}/83.html",
+    "author": "FNF Vs. Sonic.EXE Team",
+    "authorLink": "https://gamebanana.com/mods/531361" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 84,
+    "name": "Friday Night Funkin' Sunday Night Suicide: Rookies Edition",
+    "cover": "{COVER_URL}/84.png",
+    "url": "{HTML_URL}/84.html",
+    "author": "Rookies team",
+    "authorLink": "https://gamebanana.com/mods/503587",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 85,
+    "name": "Friday Night Funkin vs Carol V2",
+    "cover": "{COVER_URL}/85.png",
+    "url": "{HTML_URL}/85.html",
+    "author": "Carol V2 team",
+    "authorLink": "https://gamebanana.com/mods/42811" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 86,
+    "name": "Friday Night Funkin' VS Impostor B-Sides",
+    "cover": "{COVER_URL}/86.png",
+    "url": "{HTML_URL}/86.html",
+    "author": "Imposter b-sides team",
+    "authorLink": "https://gamebanana.com/mods/504519",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 87,
+    "name": "Friday Night Funkin VS Impostor v4",
+    "cover": "{COVER_URL}/87.png",
+    "url": "{HTML_URL}/87.html",
+    "author": "Imposter v4 team",
+    "authorLink": "https://gamebanana.com/mods/55652" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 88,
+    "name": "Friday Night Funkin vs Nonsense",
+    "cover": "{COVER_URL}/88.png",
+    "url": "{HTML_URL}/88.html",
+    "author": "NonsenseNH",
+    "authorLink": "https://www.youtube.com/channel/UCnp4LuZgNt0KwiTMSZN7GIw",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 89,
+    "name": "Friday Night Funkin vs Shaggy",
+    "cover": "{COVER_URL}/89.png",
+    "url": "{HTML_URL}/89.html",
+    "author": "srPerez etc",
+    "authorLink": "https://gamebanana.com/mods/284121" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 90,
+    "name": "Friday Night Funkin vs Shucks v2",
+    "cover": "{COVER_URL}/90.png",
+    "url": "{HTML_URL}/90.html",  
+    "author": "CurtisDev",
+    "authorLink": "https://gamebanana.com/mods/519908",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 91,
+    "name": "Friday Night Funkin vs Sunday Remastered HD",
+    "cover": "{COVER_URL}/91.png",
+    "url": "{HTML_URL}/91.html",
+    "author": "Sunday Remastered team",
+    "authorLink": "https://gamebanana.com/mods/323254" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 92,
+    "name": "Friday Night Funkin vs Tabi",
+    "cover": "{COVER_URL}/92.png",
+    "url": "{HTML_URL}/92.html",
+    "author": "SangMareZG",
+    "authorLink": "https://gamebanana.com/mods/587524",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 93,
+    "name": "Friday Night Funkin vs Undertale",
+    "cover": "{COVER_URL}/93.png",
+    "url": "{HTML_URL}/93.html",
+    "author": "vs undertale team",
+    "authorLink": "https://gamebanana.com/mods/342415",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 94,
+    "name": "Friday Night Funkin vs Zardy",
+    "cover": "{COVER_URL}/94.png",
+    "url": "{HTML_URL}/94.html",
+    "author": "SwankyBox",
+    "authorLink": "https://gamebanana.com/mods/44366",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 95,
+    "name": "Friday Night Funkin Vs. Cyber Sensation",
+    "cover": "{COVER_URL}/95.png",
+    "url": "{HTML_URL}/95.html",
+    "author": "Taeyai",
+    "authorLink": "https://gamebanana.com/mods/319101" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Friday Night Funkin': 17 Bucks: Floor 1",
+    "cover": "{COVER_URL}/96.png",
+    "url": "{HTML_URL}/96.html",
+    "author": "Peacocok6k",
+    "authorLink": "https://gamebanana.com/mods/461390",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Friday Night Funkin': AKAGE",
+    "cover": "{COVER_URL}/97.png",
+    "url": "{HTML_URL}/97.html",
+    "author": "owoskitty etc",
+    "authorLink": "https://gamebanana.com/mods/578842" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Friday Night Funkin': B-Sides",
+    "cover": "{COVER_URL}/98.png",
+    "url": "{HTML_URL}/98.html",
+    "author": "Rozebud",
+    "authorLink": "https://gamebanana.com/mods/42724",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Friday Night Funkin': Chaos Nightmare - Sonic Vs. Fleetway",
+    "cover": "{COVER_URL}/99.png",
+    "url": "{HTML_URL}/99.html",
+    "author": "Fleetway team",
+    "authorLink": "https://gamebanana.com/mods/359046" ,
+    "special": [
+      "fnf"
+    ]
+  },
+    {
+    "id": 100,
+    "name": "Friday Night Funkin': Creepypasta JP",
+    "cover": "{COVER_URL}/100.png",
+    "url": "{HTML_URL}/100.html",
+    "author": "CPJP Team",
+    "authorLink": "https://gamebanana.com/mods/584886",
+    "special": [
+      "fnf"
+    ]
+  },
+   {
+    "id": 101,
+    "name": "Friday Night Funkin': Darkness Takeover",
+    "cover": "{COVER_URL}/101.png",
+    "url": "{HTML_URL}/101.html",
+    "author": "MiniSymba",
+    "authorLink": "https://gamejolt.com/games/darknesstakeover/802587",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "Friday Night Funkin': FIRE IN THE HOLE: Lobotomy Dash Funkin'",
+    "cover": "{COVER_URL}/102.png",
+    "url": "{HTML_URL}/102.html",
+    "author": "CoolDudeCrafter",
+    "authorLink": "https://gamebanana.com/mods/490658",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "Friday Night Funkin': Gumballs",
+    "cover": "{COVER_URL}/103.png",
+    "url": "{HTML_URL}/103.html",
+    "author": "Gumballs team",
+    "authorLink": "https://gamebanana.com/mods/614094" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "Friday Night Funkin': Heartbreak Havoc [Vs. Sky: REDUX]",
+    "cover": "{COVER_URL}/104.png",
+    "url": "{HTML_URL}/104.html",
+    "author": "REDUX Team",
+    "authorLink": "https://gamebanana.com/mods/632935" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "Friday Night Funkin': Hit Single Real",
+    "cover": "{COVER_URL}/105.png",
+    "url": "{HTML_URL}/105.html",
+    "author": "Sturm/Churgney Gurgney etc",
+    "authorLink": "https://gamebanana.com/mods/395039",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "Friday Night Funkin': Indie Cross",
+    "cover": "{COVER_URL}/106.png",
+    "url": "{HTML_URL}/106.html",
+    "author": "MORØ etc",
+    "authorLink": "https://gamejolt.com/games/indiecross/643540",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "Friday Night Funkin': Jeffy's Endless Aethos",
+    "cover": "{COVER_URL}/107.png",
+    "url": "{HTML_URL}/107.html",
+    "author": "jeffyfansml99 etc",
+    "authorLink": "https://gamebanana.com/mods/504934",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "Friday Night Funkin': Mistful Crimson Morning Reboot",
+    "cover": "{COVER_URL}/108.png",
+    "url": "{HTML_URL}/108.html",
+    "author": "Stonesteve etc",
+    "authorLink": "https://gamebanana.com/mods/387663",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "Friday Night Funkin': Neo",
+    "cover": "{COVER_URL}/109.png",
+    "url": "{HTML_URL}/109.html",
+    "author": "JellyFishedm etc",
+    "authorLink": "https://gamebanana.com/mods/44230",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 110,
+    "name": "Friday Night Funkin': Pibby: Apocalypse",
+    "cover": "{COVER_URL}/110.png",
+    "url": "{HTML_URL}/110.html",
+    "author": "BAUDASlel etc.",
+    "authorLink": "https://gamebanana.com/wips/73842",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 111,
+    "name": "Friday Night Funkin': Sarvente's Mid-Fight Masses",
+    "cover": "{COVER_URL}/111.png",
+    "url": "{HTML_URL}/111.html",
+    "author": "Dokki.doodlez etc",
+    "authorLink": "https://gamebanana.com/mods/288792",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 112,
+    "name": "Friday Night Funkin': Sonic Legacy",
+    "cover": "{COVER_URL}/112.png",
+    "url": "{HTML_URL}/112.html",
+    "author": "JoeDoughBoi etc",
+    "authorLink": "https://gamebanana.com/mods/496733",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 113,
+    "name": "Friday Night Funkin': TWIDDLEFINGER",
+    "cover": "{COVER_URL}/113.png",
+    "url": "{HTML_URL}/113.html",
+    "author": "MAXPROLOVER998",
+    "authorLink": "https://gamebanana.com/mods/525021",
+    "special": [
+      "fnf"
+    ]
+  },
+    {
+    "id": 114,
+    "name": "Friday Night Funkin': V.S. Whitty",
+    "cover": "{COVER_URL}/114.png",
+    "url": "{HTML_URL}/114.html",
+    "author": "Nate Anim8",
+    "authorLink": "https://gamebanana.com/mods/44214",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 115,
+    "name": "Friday Night Funkin': vs. BOPCITY",
+    "cover": "{COVER_URL}/115.png",
+    "url": "{HTML_URL}/115.html",
+    "author": "Daniel Hummus",
+    "authorLink": "https://gamebanana.com/mods/527514",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 116,
+    "name": "Friday Night Funkin': vs. Garcello",
+    "cover": "{COVER_URL}/116.png",
+    "url": "{HTML_URL}/116.html",
+    "author": "atsuover etc",
+    "authorLink": "https://gamebanana.com/mods/166531",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 117,
+    "name": "Friday Night Funkin': Vs. Hatsune Miku",
+    "cover": "{COVER_URL}/117.png",
+    "url": "{HTML_URL}/117.html",
+    "author": "evidal etc",
+    "authorLink": "https://gamebanana.com/mods/44307",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 118,
+    "name": "Friday Night Funkin': Vs. Hex",
+    "cover": "{COVER_URL}/118.png",
+    "url": "{HTML_URL}/118.html",
+    "author": "YingYang48 etc",
+    "authorLink": "https://gamebanana.com/mods/44225",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 119,
+    "name": "Friday Night Funkin': VS. Impostor: Alternated",
+    "cover": "{COVER_URL}/119.png",
+    "url": "{HTML_URL}/119.html",
+    "author": "Alternated team",
+    "authorLink": "https://gamebanana.com/mods/598215" ,
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 120,
+    "name": "Friday Night Funkin': vs. QT",
+    "cover": "{COVER_URL}/120.png",
+    "url": "{HTML_URL}/120.html",
+    "author": "Hazardous24 etc",
+    "authorLink": "https://gamebanana.com/mods/299714",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 121,
+    "name": "Friday Night Funkin': vs. Tricky",
+    "cover": "{COVER_URL}/121.png",
+    "url": "{HTML_URL}/121.html",
+    "author": "Banbuds etc",
+    "authorLink": "https://gamebanana.com/mods/44334",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 122,
+    "name": "Friday Night Funkin’ Soft",
+    "cover": "{COVER_URL}/122.png",
+    "url": "{HTML_URL}/122.html",
+    "author": "ShiniTrexx etc",
+    "authorLink": "https://gamebanana.com/mods/523551",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 123,
+    "name": "Friday Night Funkin’ Wednesday's Infidelity",
+    "cover": "{COVER_URL}/123.png",
+    "url": "{HTML_URL}/123.html",
+    "author": "Wednesday's Infidelity team",
+    "authorLink": "https://gamebanana.com/mods/343688" ,
+    "special": [
+      "fnf"
+    ]
   }
 ]
