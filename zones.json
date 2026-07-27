@@ -848,5 +848,58 @@
     "special": [
       "emulator"
     ]
+  },
+  {
+    "id": 76,
+    "name": "Crash Bandicoot",
+    "cover": "{COVER_URL}/76.png",
+    "url": "{HTML_URL}/76.html", 
+    "author": "Naughty Dog, Universal Interactive Studios, Sony Computer Entertainment, Activision",
+    "authorLink": "https://www.naughtydog.com/",
+    "special": [
+      "emulator",
+      "psx"
+    ]
+  },
+ {
+    "id": 77,
+    "name": "In Stars and Time",
+    "cover": "{COVER_URL}/77.png",
+    "url": "{HTML_URL}/77.html",
+    "author": "insertdisc5",
+    "authorLink": "https://store.steampowered.com/app/1677310/In_Stars_And_Time/",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 78,
+    "name": "Sonic Mania",
+    "cover": "{COVER_URL}/78.png",
+    "url": "{HTML_URL}/78.html",
+    "author": "SEGA, crunch arcade",
+    "authorLink": "https://sega.com",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 79,
+    "name": "Crazy Cattle 3D",
+    "cover": "{COVER_URL}/79.png",
+    "url": "{HTML_URL}/79.html",
+    "author": "4nn4t4t",
+    "authorLink": "https://4nn4t4t.itch.io/crazycattle3d",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 80,
+    "name": "Drift Boss",
+    "cover": "{COVER_URL}/80.png",
+    "url": "{HTML_URL}/80.html",
+    "author": "marketjs",
+    "authorLink": "https://www.marketjs.com"
   }
 ]
