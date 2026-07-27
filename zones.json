@@ -879,6 +879,7 @@
     "url": "{HTML_URL}/78.html",
     "author": "SEGA, crunch arcade",
     "authorLink": "https://sega.com",
+    "featured": true,
     "special": [
       "port"
     ]
