@@ -1375,5 +1375,16 @@
     "special": [
       "fnf"
     ]
+  },
+ {
+    "id": 124,
+    "name": "Undertale Yellow",
+    "cover": "{COVER_URL}/124.png",
+    "url": "{HTML_URL}/124.html",
+    "author": "Team Undertale Yellow",
+    "authorLink": "https://gamejolt.com/games/UndertaleYellow/136925",
+    "special": [
+      "port"
+    ]
   }
 ]
