@@ -1472,5 +1472,17 @@
     "author": "coweggs",
     "authorLink": "https://coweggs.itch.io/slope-plus",
     "featured": true
+  },
+ {
+    "id": 133,
+    "name": "Your Only Move Is HUSTLE",
+    "cover": "{COVER_URL}/133.png",
+    "url": "{HTML_URL}/133.html",
+    "author": "ivysly",
+    "authorLink": "https://ivysly.itch.io/your-only-move-is-hustle",
+    "featured": true,
+    "special": [
+      "port"
+    ]
   }
 ]
