@@ -210,8 +210,7 @@
     "cover": "{COVER_URL}/17.png",
     "url": "{HTML_URL}/17.html",
     "author": "Joe Zeng",
-    "authorLink": "https://sans-simulator.github.io/undyne-simulator/",
-    "featured": true
+    "authorLink": "https://sans-simulator.github.io/undyne-simulator/"
   },
 {
     "id": 18,
@@ -1464,5 +1463,14 @@
     "special": [
       "port"
     ]
+  },
+ {
+    "id": 198,
+    "name": "Slope",
+    "cover": "{COVER_URL}/198.png",
+    "url": "{HTML_URL}/198.html",
+    "author": "coweggs",
+    "authorLink": "https://coweggs.itch.io/slope-plus",
+    "featured": true,
   }
 ]
