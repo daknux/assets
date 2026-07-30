@@ -1484,5 +1484,49 @@
     "special": [
       "port"
     ]
+  },
+ {
+    "id": 134,
+    "name": "Sonic The Hedgehog",
+    "cover": "{COVER_URL}/134.png",
+    "url": "{HTML_URL}/134.html",
+    "author": "SEGA, crunch arcade",
+    "authorLink": "https://sega.com",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 135,
+    "name": "Sonic The Hedgehog 2",
+    "cover": "{COVER_URL}/135.png",
+    "url": "{HTML_URL}/135.html",
+    "author": "SEGA, crunch arcade",
+    "authorLink": "https://sega.com",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 136,
+    "name": "Sonic the Hedgehog 3: Angel Island Remastered",
+    "cover": "{COVER_URL}/136.png",
+    "url": "{HTML_URL}/136.html",
+    "author": "Eukaryot3K and SEGA",
+    "authorLink": "https://sonic3air.org/", 
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 137,
+    "name": "Sonic CD",
+    "cover": "{COVER_URL}/137.png",
+    "url": "{HTML_URL}/137.html",
+    "author": "SEGA, crunch arcade",
+    "authorLink": "https://sega.com",
+    "special": [
+      "port"
+    ]
   }
 ]
