@@ -1528,5 +1528,82 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 138,
+    "name": "Riddle School",
+    "cover": "{COVER_URL}/138.png",
+    "url": "{HTML_URL}/138.html",
+    "author": "JonBro",
+    "authorLink": "https://jonbro.newgrounds.com",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 139,
+    "name": "Riddle School 2",
+    "cover": "{COVER_URL}/139.png",
+    "url": "{HTML_URL}/139.html",
+    "author": "JonBro",
+    "authorLink": "https://jonbro.newgrounds.com",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 140,
+    "name": "Riddle School 3",
+    "cover": "{COVER_URL}/140.png",
+    "url": "{HTML_URL}/140.html",
+    "author": "JonBro",
+    "authorLink": "https://jonbro.newgrounds.com",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 141,
+    "name": "Riddle School 4",
+    "cover": "{COVER_URL}/141.png",
+    "url": "{HTML_URL}/141.html",
+    "author": "JonBro",
+    "authorLink": "https://jonbro.newgrounds.com",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 142,
+    "name": "Riddle School 5",
+    "cover": "{COVER_URL}/142.png",
+    "url": "{HTML_URL}/142.html",
+    "author": "JonBro",
+    "authorLink": "https://jonbro.newgrounds.com",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 143,
+    "name": "Riddle Transfer",
+    "cover": "{COVER_URL}/143.png",
+    "url": "{HTML_URL}/143.html",
+    "author": "JonBro",
+    "authorLink": "https://jonbro.newgrounds.com",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 144,
+    "name": "Riddle Transfer 2",
+    "cover": "{COVER_URL}/144.png",
+    "url": "{HTML_URL}/144.html",
+    "author": "JonBro",
+    "authorLink": "https://jonbro.newgrounds.com",
+    "special": [
+      "flash"
+    ]
   }
 ]
