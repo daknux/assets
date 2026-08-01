@@ -1759,5 +1759,35 @@
     "special": [
       "flash"
     ]
+  },
+ {
+    "id": 159,
+    "name": "Baldi's Basics",
+    "cover": "{COVER_URL}/159.png",
+    "url": "{HTML_URL}/159.html",
+    "author": "Basically Games",
+    "authorLink": "https://basically-games.itch.io/baldis-basics"
+  },
+   {
+    "id": 160,
+    "name": "Sonic 1 but your past haunts you",
+    "cover": "{COVER_URL}/160.png",
+    "url": "{HTML_URL}/160.html",
+    "author": "Selbi",
+    "authorLink": "https://www.youtube.com/@selbi182",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 161,
+    "name": "Desert Bus in Sonic 1",
+    "cover": "{COVER_URL}/161.png",
+    "url": "{HTML_URL}/161.html",
+    "author": "Selbi",
+    "authorLink": "https://www.youtube.com/@selbi182",
+    "special": [
+      "emulator"
+    ]
   }
 ]
