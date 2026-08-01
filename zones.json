@@ -1789,5 +1789,46 @@
     "special": [
       "emulator"
     ]
+  },
+ {
+    "id": 162,
+    "name": "Slendytubbies 1",
+    "cover": "{COVER_URL}/162.png",
+    "url": "{HTML_URL}/162.html", 
+    "author": "Sean Toman",
+    "authorLink": "https://www.zeoworks.com/",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 163,
+    "name": "Slendytubbies 2",
+    "cover": "{COVER_URL}/163.png",
+    "url": "{HTML_URL}/163.html",  
+    "author": "Sean Toman",
+    "authorLink": "https://www.zeoworks.com/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 164,
+    "name": "n-gon",
+    "cover": "{COVER_URL}/164.png",
+    "url": "{HTML_URL}/164.html",
+    "author": "landgreen",
+    "authorLink": "https://github.com/landgreen/n-gon"
+  },
+  {
+    "id": 165,
+    "name": "Balatro",
+    "cover": "{COVER_URL}/165.png",
+    "url": "{HTML_URL}/165.html",  
+    "author": "LocalThunk",
+    "authorLink": "https://www.playbalatro.com/",
+    "special": [
+      "port"
+    ]
   }
 ]
