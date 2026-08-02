@@ -1841,5 +1841,14 @@
     "special": [
       "emulator"
     ]
+  },
+ {
+    "id": 167,
+    "name": "Garten of Banban",
+    "cover": "{COVER_URL}/167.png",
+    "url": "{HTML_URL}/167.html",  
+    "author": "Euphoric Brothers, vatsalnewar",
+    "authorLink": "https://www.euphoricbrothers.com//",
+    "featured": true
   }
 ]
