@@ -1830,5 +1830,16 @@
     "special": [
       "port"
     ]
+  },
+ {
+    "id": 166,
+    "name": "Giovanni's Level Pack 2",
+    "cover": "{COVER_URL}/166.png",
+    "url": "{HTML_URL}/166.html",  
+    "author": "Giovanni.gen",
+    "authorLink": "https://www.dotgen.org/projects/index.html/",
+    "special": [
+      "emulator"
+    ]
   }
 ]
