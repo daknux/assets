@@ -1850,5 +1850,38 @@
     "author": "Euphoric Brothers, vatsalnewar",
     "authorLink": "https://www.euphoricbrothers.com//",
     "featured": true
+  },
+  {
+    "id": 168,
+    "name": "Robotnik's Revenge",
+    "cover": "{COVER_URL}/168.png",
+    "url": "{HTML_URL}/168.html",  
+    "author": "ColinC10",
+    "authorLink": "https://www.romhacking.net/community/1962/",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 169,
+    "name": "Sonic's Fun and Easy Adventure",
+    "cover": "{COVER_URL}/169.png",
+    "url": "{HTML_URL}/169.html",  
+    "author": "Novedicus, BinBowie, VAdaPEGA",
+    "authorLink": "https://info.sonicretro.org/Sonic%27s_Fun_and_Easy_Adventure/",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 170,
+    "name": "Mobius Evolution",
+    "cover": "{COVER_URL}/170.png",
+    "url": "{HTML_URL}/170.html",  
+    "author": "Abyssal Leopard",
+    "authorLink": "https://info.sonicretro.org/Mobius_Evolution/",
+    "special": [
+      "emulator"
+    ]
   }
 ]
