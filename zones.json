@@ -1883,5 +1883,60 @@
     "special": [
       "emulator"
     ]
+  },
+  {
+    "id": 171,
+    "name": "Fancy Pants Adventure",
+    "cover": "{COVER_URL}/171.png",
+    "url": "{HTML_URL}/171.html",
+    "author": "Brad Borne",
+    "authorLink": "https://www.bornegames.com",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 172,
+    "name": "Fancy Pants Adventure 2",
+    "cover": "{COVER_URL}/172.png",
+    "url": "{HTML_URL}/172.html",
+    "author": "Brad Borne",
+    "authorLink": "https://www.bornegames.com",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 173,
+    "name": "Fancy Pants Adventure 3",
+    "cover": "{COVER_URL}/173.png",
+    "url": "{HTML_URL}/173.html",
+    "author": "Brad Borne",
+    "authorLink": "https://www.bornegames.com",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 174,
+    "name": "Fancy Pants Adventure 4 Part 1",
+    "cover": "{COVER_URL}/174.png",
+    "url": "{HTML_URL}/174.html",
+    "author": "Brad Borne",
+    "authorLink": "https://www.bornegames.com",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 175,
+    "name": "Fancy Pants Adventure 4 Part 2",
+    "cover": "{COVER_URL}/175.png",
+    "url": "{HTML_URL}/175.html",
+    "author": "Brad Borne",
+    "authorLink": "https://www.bornegames.com",
+    "special": [
+      "flash"
+    ]
   }
 ]
