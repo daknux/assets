@@ -1991,5 +1991,17 @@
     "author": "Candywriter",
     "authorLink": "https://candywriter.com",
     "featured": true
+  },
+ {
+    "id": 181,
+    "name": "DOOMORI ETERNAL",
+    "cover": "{COVER_URL}/181.png",
+    "url": "{HTML_URL}/181.html",
+    "author": "Totally Fungal",
+    "authorLink": "https://totally-fungal.itch.io/doomori-eternal",
+    "featured": true,
+    "special": [
+      "port"
+    ]
   }
 ]
