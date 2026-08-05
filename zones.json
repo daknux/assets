@@ -1938,5 +1938,57 @@
     "special": [
       "flash"
     ]
+  },
+  {
+    "id": 176,
+    "name": "Learn to Fly",
+    "cover": "{COVER_URL}/176.png",
+    "url": "{HTML_URL}/176.html",
+    "author": "Light Bringer Games",
+    "authorLink": "http://lightbringergames.com",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 177,
+    "name": "Learn to Fly 2",
+    "cover": "{COVER_URL}/177.png",
+    "url": "{HTML_URL}/177.html",
+    "author": "Light Bringer Games",
+    "authorLink": "http://lightbringergames.com",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 178,
+    "name": "Learn to Fly 3",
+    "cover": "{COVER_URL}/178.png",
+    "url": "{HTML_URL}/178.html",
+    "author": "Light Bringer Games",
+    "authorLink": "http://lightbringergames.com",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 179,
+    "name": "Learn to Fly Idle",
+    "cover": "{COVER_URL}/179.png",
+    "url": "{HTML_URL}/179.html",
+    "author": "Light Bringer Games",
+    "authorLink": "http://lightbringergames.com",
+    "special": [
+      "flash"
+    ]
+  },
+   {
+    "id": 180,
+    "name": "BitLife",
+    "cover": "{COVER_URL}/180.png",
+    "url": "{HTML_URL}/180.html",
+    "author": "Candywriter",
+    "authorLink": "https://candywriter.com"
   }
 ]
