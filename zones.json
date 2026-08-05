@@ -1989,6 +1989,7 @@
     "cover": "{COVER_URL}/180.png",
     "url": "{HTML_URL}/180.html",
     "author": "Candywriter",
-    "authorLink": "https://candywriter.com"
+    "authorLink": "https://candywriter.com",
+    "featured": true
   }
 ]
