@@ -2149,5 +2149,16 @@
     "url": "{HTML_URL}/198.html",
     "author": "Lorenzo De Carlo",
     "authorLink": "https://nl.linkedin.com/in/lorenzodecarlo"
+  },
+   {
+    "id": 199,
+    "name": "Sonic: The Return of Painful World Spikes Kaizo",
+    "cover": "{COVER_URL}/199.png",
+    "url": "{HTML_URL}/199.html",
+    "author": "Vadim87 aka Mario2005",
+    "authorLink": "https://shc.zone/entries/expo2023/963",
+    "special": [
+      "emulator"
+    ]
   }
 ]
