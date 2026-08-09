@@ -2160,5 +2160,51 @@
     "special": [
       "emulator"
     ]
+  },
+ {
+    "id": 200,
+    "name": "Mary Kate and Ashley: Get a Clue",
+    "cover": "{COVER_URL}/200.png",
+    "url": "{HTML_URL}/200.html",
+    "author": "Acclaim",
+    "authorLink": "https://en.wikipedia.org/wiki/Acclaim_Entertainment",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 201,
+    "name": "Mary Kate and Ashley: Girls Night Out",
+    "cover": "{COVER_URL}/201.png",
+    "url": "{HTML_URL}/201.html",
+    "author": "Acclaim",
+    "authorLink": "https://en.wikipedia.org/wiki/Acclaim_Entertainment",
+    "special": [
+      "emulator",
+      "gba"
+    ]
+  },
+ {
+    "id": 202,
+    "name": "St Andrews: Eikou to Rekishi no Old Course",
+    "cover": "{COVER_URL}/202.png",
+    "url": "{HTML_URL}/202.html",
+    "author": "Epoch",
+    "authorLink": "https://epoch.jp/global/en/",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 203,
+    "name": "Winx Club",
+    "cover": "{COVER_URL}/203.png",
+    "url": "{HTML_URL}/203.html",
+    "author": "Konami",
+    "authorLink": "https://en.wikipedia.org/wiki/Acclaim_Entertainment",
+    "special": [
+      "emulator",
+      "gba"
+    ]
   }
 ]
