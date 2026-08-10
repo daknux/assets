@@ -2225,7 +2225,7 @@
     "url": "{HTML_URL}/205.html",
     "author": "Madhook",
     "authorLink": "https://rooftoprun.net/",
-    "featured": true,
+    "featured": true
    },
   {
     "id": 206,
@@ -2234,6 +2234,6 @@
     "url": "{HTML_URL}/206.html",
     "author": "TinyDobbins",
     "authorLink": "https://www.tinydobbins.com/",
-    "featured": true,
+    "featured": true
    }
 ]
