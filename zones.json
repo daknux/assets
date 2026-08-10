@@ -2235,5 +2235,16 @@
     "author": "TinyDobbins",
     "authorLink": "https://www.tinydobbins.com/",
     "featured": true
-   }
+   },
+  {
+    "id": 207,
+    "name": "Sonic 1 Fishsticks",
+    "cover": "{COVER_URL}/207.png",
+    "url": "{HTML_URL}/207.html",
+    "author": "DeltaWooloo, SuperEgg",
+    "authorLink": "https://shc.zone/entries/contest2023/896/",
+    "special": [
+      "emulator"
+    ]
+  }
 ]
