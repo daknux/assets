@@ -2246,5 +2246,17 @@
     "special": [
       "emulator"
     ]
+  },
+ {
+    "id": 208,
+    "name": "Angry Birds Epic",
+    "cover": "{COVER_URL}/208.png",
+    "url": "{HTML_URL}/208.html",
+    "author": "Rovio",
+    "authorLink": "https://www.rovio.com/",
+    "featured": true,
+    "special": [
+      "port"
+    ]
   }
 ]
