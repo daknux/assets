@@ -2206,5 +2206,34 @@
       "emulator",
       "gba"
     ]
-  }
+  },
+ {
+    "id": 204,
+    "name": "Can Your Pet",
+    "cover": "{COVER_URL}/204.png",
+    "url": "{HTML_URL}/204.html",
+    "author": "Scaryama",
+    "authorLink": "https://canyourpet.com/",
+    "special": [
+      "flash"
+    ]
+  },
+ {
+    "id": 205,
+    "name": "Rooftop Run",
+    "cover": "{COVER_URL}/205.png",
+    "url": "{HTML_URL}/205.html",
+    "author": "Madhook",
+    "authorLink": "https://rooftoprun.net/",
+    "featured": true,
+   },
+  {
+    "id": 206,
+    "name": "Monkey Mart",
+    "cover": "{COVER_URL}/206.png",
+    "url": "{HTML_URL}/206.html",
+    "author": "TinyDobbins",
+    "authorLink": "https://www.tinydobbins.com/",
+    "featured": true,
+   }
 ]
