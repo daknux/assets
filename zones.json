@@ -316,7 +316,6 @@
     "url": "{HTML_URL}/27.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com",
-    "featured": true,
     "special": [
       "port"
     ]
@@ -328,7 +327,6 @@
     "url": "{HTML_URL}/28.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com",
-    "featured": true,
     "special": [
       "port"
     ]
@@ -340,7 +338,6 @@
     "url": "{HTML_URL}/29.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com",
-    "featured": true,
     "special": [
       "port"
     ]
@@ -352,7 +349,6 @@
     "url": "{HTML_URL}/30.html",
     "author": "Scott Cawthon",
     "authorLink": "https://scottgames.com",
-    "featured": true,
     "special": [
       "port"
     ]
@@ -810,7 +806,6 @@
     "url": "{HTML_URL}/72-f.html",
     "author": "Rovio",
     "authorLink": "https://www.rovio.com/",
-    "featured": true,
     "special": [
       "port"
     ]
@@ -2257,6 +2252,102 @@
     "featured": true,
     "special": [
       "port"
+    ]
+  },
+  {
+    "id": 209,
+    "name": "Karlson 2d",
+    "cover": "{COVER_URL}/209.png",
+    "url": "{HTML_URL}/209.html",
+    "author": "Dani",
+    "authorLink": "https://danidev.itch.io/karlson2d/",
+    "featured": true,
+    "special": [
+      "port"
+    ]
+  },
+   {
+    "id": 210,
+    "name": "Kim Possible: Kimmunicator",
+    "cover": "{COVER_URL}/210.png",
+    "url": "{HTML_URL}/210.html",
+    "author": "Buena Vista Games",
+    "authorLink": "https://disneyexperiences.com/",
+    "special": [
+      "emulator",
+      "nds"
+    ]
+  },
+ {
+    "id": 211,
+    "name": "Touhou 2 Touhou-Fuumaroku",
+    "cover": "{COVER_URL}/211.png",
+    "url": "{HTML_URL}/211.html",  
+    "author": "Jun'ya Ōta (\"ZUN\")",
+    "authorLink": "https://en.touhougarakuta.com/eastern-playing-en/toho-no-asobikata-en/",
+    "special": [
+      "emulator",
+      "dos"
+    ]
+  },
+  {
+    "id": 212,
+    "name": "Touhou 3 Touhou-Yumejikuu",
+    "cover": "{COVER_URL}/212.png",
+    "url": "{HTML_URL}/212.html",  
+    "author": "Jun'ya Ōta (\"ZUN\")",
+    "authorLink": "https://en.touhougarakuta.com/eastern-playing-en/toho-no-asobikata-en/",
+    "special": [
+      "emulator",
+      "dos"
+    ]
+  },
+  {
+    "id": 213,
+    "name": "Touhou 4 Touhou-Gensokyou",
+    "cover": "{COVER_URL}/213.png",
+    "url": "{HTML_URL}/213.html",  
+    "author": "Jun'ya Ōta (\"ZUN\")",
+    "authorLink": "https://en.touhougarakuta.com/eastern-playing-en/toho-no-asobikata-en/",
+    "special": [
+      "emulator",
+      "dos"
+    ]
+  },
+  {
+    "id": 214,
+    "name": "Touhou 5 Touhou-Kaikidan",
+    "cover": "{COVER_URL}/214.png",
+    "url": "{HTML_URL}/214.html",  
+    "author": "Jun'ya Ōta (\"ZUN\")",
+    "authorLink": "https://en.touhougarakuta.com/eastern-playing-en/toho-no-asobikata-en/",
+    "special": [
+      "emulator",
+      "dos"
+    ]
+  },
+  {
+    "id": 215,
+    "name": "Harry Potter and the Chamber of Secrets",
+    "cover": "{COVER_URL}/215.png",
+    "url": "{HTML_URL}/215.html",  
+    "author": "Electronic Arts",
+    "authorLink": "https://www.ea.com/",
+    "special": [
+      "emulator",
+      "gba"
+    ]
+  },
+ {
+    "id": 216,
+    "name": "Harry Potter and the Philosopher's Stone",
+    "cover": "{COVER_URL}/216.png",
+    "url": "{HTML_URL}/216.html",  
+    "author": "Electronic Arts",
+    "authorLink": "https://www.ea.com/",
+    "special": [
+      "emulator",
+      "gba"
     ]
   }
 ]
