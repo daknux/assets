@@ -2349,5 +2349,45 @@
       "emulator",
       "gba"
     ]
+  },
+{
+    "id": 217,
+    "name": "Hinoriti Rhythm Game",
+    "cover": "{COVER_URL}/217.png",
+    "url": "{HTML_URL}/217.html",
+    "author": "nullrefrepro",
+    "authorLink": "https://nullrefrepro.itch.io/"
+  },
+ {
+    "id": 218,
+    "name": "Google",
+    "cover": "{COVER_URL}/218.png",
+    "url": "{HTML_URL}/218.html",
+    "author": "Marty Games",
+    "authorLink": "https://marty-games.github.io/",
+    "special": [
+     "tools"
+    ]
+  },
+ {
+    "id": 219,
+    "name": "Soundboard",
+    "cover": "{COVER_URL}/219.png",
+    "url": "{HTML_URL}/219.html",
+    "author": "Genizy",
+    "authorLink": "https://github.com/genizy/",
+    "featured": true,
+    "special": [
+     "tools"
+    ]
+  },
+ {
+    "id": 220,
+    "name": "INSOMNIARY",
+    "cover": "{COVER_URL}/220.png",
+    "url": "{HTML_URL}/220.html",
+    "author": "MookalH",
+    "authorLink": "https://www.newgrounds.com/portal/view/851891/",
+    "featured": true
   }
 ]
