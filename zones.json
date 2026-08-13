@@ -2466,5 +2466,16 @@
     "special": [
       "flash"
     ]
+  },
+ {
+    "id": 228,
+    "name": "Sonic 1 Higher Rings equal Higher Pitch",
+    "cover": "{COVER_URL}/228.png",
+    "url": "{HTML_URL}/228.html",
+    "author": "Grosy",
+    "authorLink": "https://sonicresearch.org/community/index.php?threads/random-hack-mini-project-thread.3230/page-65/",
+    "special": [
+      "emulator"
+    ]
   }
 ]
