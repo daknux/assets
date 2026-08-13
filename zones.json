@@ -2389,5 +2389,82 @@
     "author": "MookalH",
     "authorLink": "https://www.newgrounds.com/portal/view/851891/",
     "featured": true
+  },
+  {
+    "id": 221,
+    "name": "Hobo 1",
+    "cover": "{COVER_URL}/221.png",
+    "url": "{HTML_URL}/221.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 222,
+    "name": "Hobo 2",
+    "cover": "{COVER_URL}/222.png",
+    "url": "{HTML_URL}/222.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 223,
+    "name": "Hobo 3",
+    "cover": "{COVER_URL}/223.png",
+    "url": "{HTML_URL}/223.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 224,
+    "name": "Hobo 4",
+    "cover": "{COVER_URL}/224.png",
+    "url": "{HTML_URL}/224.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 225,
+    "name": "Hobo 5",
+    "cover": "{COVER_URL}/225.png",
+    "url": "{HTML_URL}/225.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 226,
+    "name": "Hobo 6",
+    "cover": "{COVER_URL}/226.png",
+    "url": "{HTML_URL}/226.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 227,
+    "name": "Hobo 7",
+    "cover": "{COVER_URL}/227.png",
+    "url": "{HTML_URL}/227.html",
+    "author": "SeethingSwarm",
+    "authorLink": "https://seethingswarm.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
   }
 ]
