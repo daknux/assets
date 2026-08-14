@@ -2477,5 +2477,16 @@
     "special": [
       "emulator"
     ]
+  },
+  {
+    "id": 229,
+    "name": "StrawPage Paint",
+    "cover": "{COVER_URL}/229.png",
+    "url": "{HTML_URL}/229.html",
+    "author": "osman",
+    "authorLink": "https://x.com/okozzie_/",
+    "special": [
+      "tools"
+    ]
   }
 ]
