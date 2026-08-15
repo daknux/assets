@@ -2488,5 +2488,16 @@
     "special": [
       "tools"
     ]
+  },
+  {
+    "id": 230,
+    "name": "Rouge in Sonic 1",
+    "cover": "{COVER_URL}/230.png",
+    "url": "{HTML_URL}/230.html",
+    "author": "AsuharaMoon",
+    "authorLink": "https://forums.sonicretro.org/threads/rouge-in-sonic-1.38365/",
+    "special": [
+      "emulator"
+    ]
   }
 ]
