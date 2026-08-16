@@ -2549,5 +2549,40 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 236,
+    "name": "Balistic: Ecks VS. Sever",
+    "cover": "{COVER_URL}/236.png",
+    "url": "{HTML_URL}/236.html",
+    "author": "Crawfish Interactive, BAM Entertainment",
+    "authorLink": "https://en.wikipedia.org/wiki/BAM!_Entertainment/",
+    "special": [
+      "emulator",
+      "gba"
+    ]
+  },
+  {
+    "id": 237,
+    "name": "Ice Nine",
+    "cover": "{COVER_URL}/237.png",
+    "url": "{HTML_URL}/237.html",
+    "author": "Torus Games, BAM Entertainment",
+    "authorLink": "https://en.wikipedia.org/wiki/BAM!_Entertainment/",
+    "special": [
+      "emulator",
+      "gba"
+    ]
+  },
+ {
+    "id": 238,
+    "name": "VS Rewrite: ROUND 2",
+    "cover": "{COVER_URL}/238.png",
+    "url": "{HTML_URL}/238.html",
+    "author": "Rewrite team",
+    "authorLink": "https://gamebanana.com/mods/599931",
+    "special": [
+      "fnf"
+    ]
   }
 ]
