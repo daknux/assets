@@ -2499,5 +2499,55 @@
     "special": [
       "emulator"
     ]
+  },
+ {
+    "id": 231,
+    "name": "Deltatraveler",
+    "cover": "{COVER_URL}/231.png",
+    "url": "{HTML_URL}/231.html",
+    "author": "VyletBunni",
+    "authorLink": "https://gamejolt.com/games/deltatraveler/661464",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 232,
+    "name": "BERGENTRUCK 201x",
+    "cover": "{COVER_URL}/232.png",
+    "url": "{HTML_URL}/232.html",
+    "author": "Paledoptera",
+    "authorLink": "https://gamejolt.com/games/bergentruck/1007556",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 233,
+    "name": "Trees Hate You",
+    "cover": "{COVER_URL}/233.png",
+    "url": "{HTML_URL}/233.html", 
+    "author": "tykenn",
+    "authorLink": "https://tykenn.itch.io/trees-hate-you"
+  },
+  {
+    "id": 234,
+    "name": "Drive Mad",
+    "cover": "{COVER_URL}/234.png",
+    "url": "{HTML_URL}/234.html", 
+    "author": "Fancade",
+    "authorLink": "https://www.fancade.com/"
+  },
+ {
+    "id": 235,
+    "name": "ULTRAKILL",
+    "cover": "{COVER_URL}/235.png",
+    "url": "{HTML_URL}/235.html",
+    "author": "New Blood Interactive, Cake Logic",
+    "authorLink": "https://sites.google.com/view/cakelogic",
+    "featured": true,
+    "special": [
+      "port"
+    ]
   }
 ]
