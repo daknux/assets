@@ -2590,5 +2590,14 @@
     "special": [
       "fnf"
     ]
+  },
+  {
+    "id": 239,
+    "name": "Sprunki Retake",
+    "cover": "{COVER_URL}/239.png",
+    "url": "{HTML_URL}/239.html",
+    "author": "coolskull212",
+    "authorLink": "https://coolskull212again.itch.io",
+    "featured": true
   }
 ]
