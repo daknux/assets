@@ -2610,5 +2610,45 @@
     "special": [
       "flash"
    ]
+  },
+  {
+    "id": 241,
+    "name": "Pokemon Leaf Green",
+    "cover": "{COVER_URL}/241.png",
+    "url": "{HTML_URL}/241.html",
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "special": [
+      "emulator",
+      "gba"
+    ]
+  },
+ {
+    "id": 242,
+    "name": "Pokemon Emerald",
+    "cover": "{COVER_URL}/242.png",
+    "url": "{HTML_URL}/242.html",
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "special": [
+      "emulator",
+      "gba"
+    ]
+  },
+ {
+    "id": 243,
+    "name": "2048",
+    "cover": "{COVER_URL}/243.png",
+    "url": "{HTML_URL}/243.html",
+    "author": "Gabriele Cirulli",
+    "authorLink": "https://github.com/gabrielecirulli"
+  },
+  {
+    "id": 244,
+    "name": "Big Tower Tiny Square",
+    "cover": "{COVER_URL}/244.png",
+    "url": "{HTML_URL}/244.html",
+    "author": "EvilObjective",
+    "authorLink": "https://evilobjective.itch.io"
   }
 ]
