@@ -2650,5 +2650,48 @@
     "url": "{HTML_URL}/244.html",
     "author": "EvilObjective",
     "authorLink": "https://evilobjective.itch.io"
+  },
+ {
+    "id": 245,
+    "name": "99 Nights in The Forest",
+    "cover": "{COVER_URL}/245.png",
+    "url": "{HTML_URL}/245.html",
+    "author": "Grandma's Favourite Games",
+    "authorLink": "https://www.roblox.com/communities/6042520/Grandmas-Favourite-Games"
+  },
+ {
+    "id": 246,
+    "name": "Crash Bandicoot 2: Cortex Strikes Back",
+    "cover": "{COVER_URL}/246.png",
+    "url": "{HTML_URL}/246.html", 
+    "author": "Naughty Dog, Universal Interactive Studios, Sony Computer Entertainment, Activision",
+    "authorLink": "https://www.naughtydog.com/",
+    "special": [
+      "emulator",
+      "psx"
+    ]
+  },
+  {
+    "id": 247,
+    "name": "Sonic R",
+    "cover": "{COVER_URL}/247.png",
+    "url": "{HTML_URL}/247.html", 
+    "author": "SEGA",
+    "authorLink": "https://sega.com/",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 248,
+    "name": "MegaMan",
+    "cover": "{COVER_URL}/248.png",
+    "url": "{HTML_URL}/248.html",
+    "author": "Capcom",
+    "authorLink": "https://www.capcom.com/",
+    "special": [
+      "emulator",
+      "nes"
+    ]
   }
 ]
