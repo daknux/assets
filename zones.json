@@ -2745,5 +2745,16 @@
     "special": [
       "emulator"
     ]
+  },
+   {
+    "id": 254,
+    "name": "Sonic 2 Return of Shadow",
+    "cover": "{COVER_URL}/254.png",
+    "url": "{HTML_URL}/254.html", 
+    "author": "JoenickROS",
+    "authorLink": "https://shc.zone/entries/contest2020/330",
+    "special": [
+      "emulator"
+    ]
   }
 ]
