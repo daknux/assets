@@ -2355,7 +2355,7 @@
   },
 {
     "id": 217,
-    "name": "Hinoriti Rhythm Game",
+    "name": "Hinoriti Rhythm Game: BROKEN",
     "cover": "{COVER_URL}/217.png",
     "url": "{HTML_URL}/217.html",
     "author": "nullrefrepro",
@@ -2701,5 +2701,49 @@
     "url": "{HTML_URL}/249.html",
     "author": "Kodub",
     "authorLink": "https://www.kodub.com"
+  },
+  {
+    "id": 250,
+    "name": "Kaizo Sonic The Hedgehog",
+    "cover": "{COVER_URL}/250.png",
+    "url": "{HTML_URL}/250.html", 
+    "author": "KaikeKTH, Nightflux",
+    "authorLink": "https://www.youtube.com/@KaizoSonicOfficial/",
+    "special": [
+      "emulator"
+    ]
+  },
+   {
+    "id": 251,
+    "name": "Sonic VR",
+    "cover": "{COVER_URL}/251.png",
+    "url": "{HTML_URL}/251.html", 
+    "author": "ColinC10",
+    "authorLink": "https://www.romhacking.net/community/1962/",
+    "special": [
+      "emulator"
+    ]
+  },
+ {
+    "id": 252,
+    "name": "Sonic 2 Kaizo 2K17",
+    "cover": "{COVER_URL}/252.png",
+    "url": "{HTML_URL}/252.html", 
+    "author": "HeranBago",
+    "authorLink": "https://www.mediafire.com/file/gqrk6kh4h0giees/kaizo+sonic+2+080917.zip/file",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 253,
+    "name": "Sonic 2 But keep Tails or else",
+    "cover": "{COVER_URL}/253.png",
+    "url": "{HTML_URL}/253.html", 
+    "author": "GT Koopa",
+    "authorLink": "https://www.mediafire.com/download/x3430nut8h98nqn/Sonic+2+But+keep+Tails+or+else.smd",
+    "special": [
+      "emulator"
+    ]
   }
 ]
