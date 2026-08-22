@@ -2756,5 +2756,43 @@
     "special": [
       "emulator"
     ]
+  },
+ {
+    "id": 255,
+    "name": "Mario Paint",
+    "cover": "{COVER_URL}/255.png",
+    "url": "{HTML_URL}/255.html",
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "special": [
+      "emulator"
+    ]
+  },
+ {
+    "id": 256,
+    "name": "Sonic and Knuckles Master Edition",
+    "cover": "{COVER_URL}/256.png",
+    "url": "{HTML_URL}/256.html",
+    "author": "Xebninmaj",
+    "authorLink": "https://shc.zone/entries/expo2021/480",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 257,
+    "name": "osu!",
+    "cover": "{COVER_URL}/257.png",
+    "url": "{HTML_URL}/257.html",
+    "author": "ppy",
+    "authorLink": "https://osu.ppy.sh/"
+  },
+   {
+    "id": 258,
+    "name": "Getaway Shootout",
+    "cover": "{COVER_URL}/258.png",
+    "url": "{HTML_URL}/258.html",
+    "author": "New Eich Games",
+    "authorLink": "https://www.neweichgames.com"
   }
 ]
