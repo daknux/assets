@@ -2813,5 +2813,68 @@
     "url": "{HTML_URL}/260-f.html",
     "author": "Studio-19",
     "authorLink": "https://studio-19.itch.io/swordfight"
+  },
+ {
+    "id": 261,
+    "name": "Achievement Unlocked",
+    "cover": "{COVER_URL}/261.png",
+    "url": "{HTML_URL}/261.html",
+    "author": "jmtb02",
+    "authorLink": "https://jmtb02.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 262,
+    "name": "Achievement Unlocked 2",
+    "cover": "{COVER_URL}/262.png",
+    "url": "{HTML_URL}/262.html",
+    "author": "jmtb02",
+    "authorLink": "https://jmtb02.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 263,
+    "name": "Achievement Unlocked 3",
+    "cover": "{COVER_URL}/263.png",
+    "url": "{HTML_URL}/263.html",
+    "author": "jmtb02",
+    "authorLink": "https://jmtb02.newgrounds.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 264,
+    "name": "Saihate Station (さいはて駅)",
+    "cover": "{COVER_URL}/264.png",
+    "url": "{HTML_URL}/264.html",
+    "author": "びぶ/viv",
+    "authorLink": "https://store.steampowered.com/app/3079280/Saihate_Station/",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 265,
+    "name": "Spelunky Classic HD",
+    "cover": "{COVER_URL}/265.png",
+    "url": "{HTML_URL}/265.html",
+    "author": " nkrapivin",
+    "authorLink": "https://yancharkin.itch.io/spelunky-classic-hd"
+  },
+   {
+    "id": 266,
+    "name": "StickRPG Complete)",
+    "cover": "{COVER_URL}/266.png",
+    "url": "{HTML_URL}/266.html",
+    "author": "XGen",
+    "authorLink": "https://www.newgrounds.com/portal/view/231391/",
+    "special": [
+      "flash"
+    ]
   }
 ]
