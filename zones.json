@@ -2876,5 +2876,16 @@
     "special": [
       "flash"
     ]
+  },
+    {
+    "id": 267,
+    "name": "Baby Sniper In Vietnam",
+    "cover": "{COVER_URL}/267.png",
+    "url": "{HTML_URL}/267.html",
+    "author": "Studiohammergames",
+    "authorLink": "https://studiohammergames.itch.io/baby-sniper-in-vietnam/",
+    "special": [
+      "fps"
+    ]
   }
 ]
