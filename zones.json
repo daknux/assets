@@ -2801,7 +2801,10 @@
     "cover": "{COVER_URL}/259.png",
     "url": "{HTML_URL}/259.html",
     "author": "Maksim Chmutov",
-    "authorLink": "https://booleet.itch.io/station-141"
+    "authorLink": "https://booleet.itch.io/station-141",
+   "special": [
+      "fps"
+    ]
   },
  {
     "id": 260,
