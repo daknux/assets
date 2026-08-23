@@ -2761,7 +2761,7 @@
     "id": 255,
     "name": "Mario Paint",
     "cover": "{COVER_URL}/255.png",
-    "url": "{HTML_URL}/255.html",
+    "url": "{HTML_URL}/255-f.html",
     "author": "Nintendo",
     "authorLink": "https://nintendo.com",
     "special": [
@@ -2794,5 +2794,21 @@
     "url": "{HTML_URL}/258.html",
     "author": "New Eich Games",
     "authorLink": "https://www.neweichgames.com"
+  },
+ {
+    "id": 259,
+    "name": "Station 141",
+    "cover": "{COVER_URL}/259.png",
+    "url": "{HTML_URL}/259.html",
+    "author": "Maksim Chmutov",
+    "authorLink": "https://booleet.itch.io/station-141"
+  },
+ {
+    "id": 260,
+    "name": "Swordfight!!",
+    "cover": "{COVER_URL}/260.png",
+    "url": "{HTML_URL}/260-f.html",
+    "author": "Studio-19",
+    "authorLink": "https://studio-19.itch.io/swordfight"
   }
 ]
