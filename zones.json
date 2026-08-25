@@ -506,7 +506,8 @@
     "author": "Ethan O'Brien",
     "authorLink": "https://emulatorjs.org/",
     "special": [
-      "emulator"
+      "emulator",
+      "tools"
     ]
   },
   {
@@ -517,7 +518,8 @@
     "author": "Claude O'Brien aka Ethan's Sister",
     "authorLink": "https://emulatorjs.org/",
     "special": [
-      "emulator"
+      "emulator",
+      "tools"
     ]
   },
  {
