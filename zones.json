@@ -150,7 +150,6 @@
     "authorLink": "https://totally-fungal.itch.io/doomori",
     "featured": true,
     "special": [
-      "port",
       "fps"
     ]
   },
@@ -2009,7 +2008,6 @@
     "authorLink": "https://totally-fungal.itch.io/doomori-eternal",
     "featured": true,
     "special": [
-      "port",
       "fps"
     ]
   },
