@@ -110,7 +110,7 @@
     "id": 8,
     "name": "Deltarune",
     "cover": "{COVER_URL}/8.png",
-    "url": "{HTML_URL}/8.html",
+    "url": "{HTML_URL}/8-u.html",
     "author": "Toby Fox",
     "authorLink": "https://deltarune.com/",
     "featured": true,
