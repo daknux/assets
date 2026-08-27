@@ -3116,5 +3116,16 @@
       "emulator",
       "nes"
     ]
+  },
+ {
+    "id": 287,
+    "name": "Youtube Embed Viewer",
+    "cover": "{COVER_URL}/287.png",
+    "url": "{HTML_URL}/287.html",
+    "author": "Google",
+    "authorLink": "https://www.youtube.com",
+    "special": [
+      "tools"
+    ]
   }
 ]
