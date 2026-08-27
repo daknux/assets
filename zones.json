@@ -3160,5 +3160,72 @@
     "special": [
       "flash"
     ]
+  },
+ {
+    "id": 291,
+    "name": "Bloons TD",
+    "cover": "{COVER_URL}/291.png",
+    "url": "{HTML_URL}/291.html",
+    "author": "Ninja Kiwi",
+    "authorLink": "https://ninjakiwi.com",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 292,
+    "name": "Bloons TD 2",
+    "cover": "{COVER_URL}/292.png",
+    "url": "{HTML_URL}/292.html",
+    "author": "Ninja Kiwi",
+    "authorLink": "https://ninjakiwi.com",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 293,
+    "name": "Bloons TD 3",
+    "cover": "{COVER_URL}/293.png",
+    "url": "{HTML_URL}/293.html",
+    "author": "Ninja Kiwi",
+    "authorLink": "https://ninjakiwi.com",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 294,
+    "name": "Bloons TD 4",
+    "cover": "{COVER_URL}/294.png",
+    "url": "{HTML_URL}/294.html",
+    "author": "Ninja Kiwi",
+    "authorLink": "https://ninjakiwi.com",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 295,
+    "name": "Bloons TD 5",
+    "cover": "{COVER_URL}/295.png",
+    "url": "{HTML_URL}/295-f.html",
+    "author": "Ninja Kiwi",
+    "authorLink": "https://ninjakiwi.com",
+    "special": [
+      "flash"
+    ]
+  },
+ {
+    "id": 296,
+    "name": "JoJo's Bizarre Adventure: Heritage for the Future",
+    "cover": "{COVER_URL}/296.png",
+    "url": "{HTML_URL}/296.html",  
+    "author": "Capcom",
+    "authorLink": "https://www.capcom.com/",
+    "special": [
+      "emulator",
+      "psx"
+    ]
   }
 ]
