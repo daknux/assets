@@ -3227,5 +3227,49 @@
       "emulator",
       "psx"
     ]
+  },
+  {
+    "id": 297,
+    "name": "Sonic 2 Forces Edition",
+    "cover": "{COVER_URL}/297.png",
+    "url": "{HTML_URL}/297.html",  
+    "author": "MotorRoach",
+    "authorLink": "https://www.mediafire.com/file/7udda23aj2ab678/Sonic_2_Forces_Edition_Tails_Mod.bin/file",
+    "special": [
+      "emulator"
+    ]
+  },
+ {
+    "id": 298,
+    "name": "Sonic.SMD",
+    "cover": "{COVER_URL}/298.png",
+    "url": "{HTML_URL}/298.html",  
+    "author": "mohammedyasir aka lavagaming1",
+    "authorLink": "https://shc.zone/entries/contest2024/1127",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 299,
+    "name": "Sonic 1 Border Patrol Edition",
+    "cover": "{COVER_URL}/299.png",
+    "url": "{HTML_URL}/299.html",  
+    "author": "Super Egg, Spanner, Ayla",
+    "authorLink": "https://www.mediafire.com/file/lgn9xi8dm4y1em1/Sonic+The+Hedgehog+Border+Patrol+Edition.bin",
+    "special": [
+      "emulator"
+    ]
+  },
+   {
+    "id": 300,
+    "name": "Knuckles Emerald Hunt",
+    "cover": "{COVER_URL}/300.png",
+    "url": "{HTML_URL}/300.html",  
+    "author": "MainMemory",
+    "authorLink": "https://www.youtube.com/@MainMemory",
+    "special": [
+      "emulator"
+    ]
   }
 ]
