@@ -3271,5 +3271,24 @@
     "special": [
       "emulator"
     ]
+  },
+ {
+    "id": 301,
+    "name": "Endacopia",
+    "cover": "{COVER_URL}/301.png",
+    "url": "{HTML_URL}/301.html",  
+    "author": "andyl4nd",
+    "authorLink": "https://andyl4nd.itch.io/endacopiademo"
+  },
+ {
+    "id": 302,
+    "name": "Sonic but Jumping Randomizes the Level",
+    "cover": "{COVER_URL}/302.png",
+    "url": "{HTML_URL}/302.html",  
+    "author": "Selbi",
+    "authorLink": " https://www.youtube.com/@selbi182",
+    "special": [
+      "emulator"
+    ]
   }
 ]
