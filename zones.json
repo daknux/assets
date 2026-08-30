@@ -3324,5 +3324,16 @@
     "special": [
       "port"
     ]
-  }
+  },
+ {
+    "id": 306,
+    "name": "Sonic: Painful World Spikes Kaizo",
+    "cover": "{COVER_URL}/306.png",
+    "url": "{HTML_URL}/306.html",
+    "author": "Vadim87 aka Mario2005",
+    "authorLink": "https://www.shc.zone/entries/expo2020/219",
+    "special": [
+      "emulator"
+    ]
+ }
 ]
