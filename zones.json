@@ -3290,5 +3290,39 @@
     "special": [
       "emulator"
     ]
+  },
+ {
+    "id": 303,
+    "name": "EXPERIMENT GROCERIES",
+    "cover": "{COVER_URL}/303.png",
+    "url": "{HTML_URL}/303.html",  
+    "author": "nihilanth",
+    "authorLink": "https://nihilanths-games.itch.io/",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 304,
+    "name": "The Choicer Voicer",
+    "cover": "{COVER_URL}/304.png",
+    "url": "{HTML_URL}/304.html",  
+    "author": "YeahMaybe",
+    "authorLink": "https://yeahmaybe.itch.io/",
+    "featured": true,
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 305,
+    "name": "Little Chef",
+    "cover": "{COVER_URL}/305.png",
+    "url": "{HTML_URL}/305.html",  
+    "author": "Julien and Erika",
+    "authorLink": "https://store.steampowered.com/app/3376500/Little_Chef_Cozy_Cooking/",
+    "special": [
+      "port"
+    ]
   }
 ]
