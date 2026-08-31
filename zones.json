@@ -3343,5 +3343,101 @@
     "url": "{HTML_URL}/307.html",
     "author": "Naberson265, RalseiRals",
     "authorLink": "https://naberson265.itch.io/"
+ },
+ {
+    "id": 308,
+    "name": "BeepBox",
+    "cover": "{COVER_URL}/308.png",
+    "url": "{HTML_URL}/308.html",
+    "author": "John Nesky",
+    "authorLink": "https://www.beepbox.co/",
+    "special": [
+      "tools"
+    ]
+ },
+  {
+    "id": 309,
+    "name": "Baldi Commits Homocide",
+    "cover": "{COVER_URL}/309.png",
+    "url": "{HTML_URL}/309.html",
+    "author": "goldnnn",
+    "authorLink": "https://gamebanana.com/mods/502476/",
+    "special": [
+      "port"
+    ]
+ },
+   {
+    "id": 310,
+    "name": "69420",
+    "cover": "{COVER_URL}/310.png",
+    "url": "{HTML_URL}/310.html",
+    "author": "spiderbaldy",
+    "authorLink": "https://spiderbaldy.itch.io/69420/",
+    "special": [
+      "port"
+    ]
+ },
+    {
+    "id": 311,
+    "name": "Baldi's Basics in Education and Learning Development Build Recreation",
+    "cover": "{COVER_URL}/311.png",
+    "url": "{HTML_URL}/311.html",
+    "author": "JohnsterSpaceGames",
+    "authorLink": "https://johnsterspacegames.itch.io/bbieal-development-build-recreation/",
+    "special": [
+      "port"
+    ]
+ },
+ {
+    "id": 312,
+    "name": "Ladi's Learning",
+    "cover": "{COVER_URL}/312.png",
+    "url": "{HTML_URL}/312.html",
+    "author": "FruitloopMonster",
+    "authorLink": "https://fruitloopmonster.itch.io/ladis-learnings/",
+    "special": [
+      "port"
+    ]
+ },
+  {
+    "id": 313,
+    "name": "Breakdi's School",
+    "cover": "{COVER_URL}/313.png",
+    "url": "{HTML_URL}/313.html",
+    "author": "BavAve77",
+    "authorLink": "https://bavave77.itch.io/breakdi/",
+    "special": [
+      "port"
+    ]
+ },
+  {
+    "id": 314,
+    "name": "Baldi's Basics Squared Classic",
+    "cover": "{COVER_URL}/314.png",
+    "url": "{HTML_URL}/314.html",
+    "author": "Naberson265",
+    "authorLink": "https://naberson265.itch.io/"
+ },
+  {
+    "id": 315,
+    "name": "Baldi's Basics in Minigames 2",
+    "cover": "{COVER_URL}/315.png",
+    "url": "{HTML_URL}/315.html",
+    "author": "Steph45",
+    "authorLink": "https://steph45.itch.io/baldis-basics-in-minigames-2/",
+    "special": [
+      "port"
+    ]
+ },
+   {
+    "id": 316,
+    "name": "Baldi's Basics 5 Years Birthday Bash",
+    "cover": "{COVER_URL}/316.png",
+    "url": "{HTML_URL}/316.html",
+    "author": "REMEN1015",
+    "authorLink": "https://remen1015.itch.io/baldis-basics-5-years-birthday-bash/",
+    "special": [
+      "port"
+    ]
  }
 ]
