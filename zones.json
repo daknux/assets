@@ -3450,5 +3450,27 @@
     "special": [
       "port"
     ]
+ },
+ {
+    "id": 318,
+    "name": "Willy's Workplace",
+    "cover": "{COVER_URL}/318.png",
+    "url": "{HTML_URL}/318.html",
+    "author": "GooseStranger",
+    "authorLink": "https://goosestranger.itch.io/willys-workplace/",
+    "special": [
+      "port"
+    ]
+ },
+ {
+    "id": 319,
+    "name": "Christopher's Silly Mansion",
+    "cover": "{COVER_URL}/319.png",
+    "url": "{HTML_URL}/319.html",
+    "author": "GooseStranger",
+    "authorLink": "https://goosestranger.itch.io/christophers-silly-mansion/",
+    "special": [
+      "port"
+    ]
  }
 ]
