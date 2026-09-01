@@ -3483,5 +3483,21 @@
     "special": [
       "flash"
     ]
-  }
+  },
+  {
+    "id": 321,
+    "name": "DEVICE KNIGHT",
+    "cover": "{COVER_URL}/321.png",
+    "url": "{HTML_URL}/321.html",
+    "author": "Radi0",
+    "authorLink": "https://shadowcrystal.dev/DEVICE_KNIGHT/"
+ },
+  {
+    "id": 322,
+    "name": "Growden.io",
+    "cover": "{COVER_URL}/322.png",
+    "url": "{HTML_URL}/322.html",
+    "author": "Legion",
+    "authorLink": "https://growden.io/"
+ }
 ]
