@@ -3495,5 +3495,26 @@
     "url": "{HTML_URL}/322.html",
     "author": "Legion",
     "authorLink": "https://growden.io/"
- }
+ },
+  {
+    "id": 323,
+    "name": "SPTO EP1: Scott Pilgrim's Precious Little Life (GBA VIDEO)",
+    "cover": "{COVER_URL}/323.png",
+    "url": "{HTML_URL}/323.html",
+    "author": "Marc Platt Productions, Complete Fiction, Faust Av, Science Saru, Universal Content Productions",
+    "authorLink": "https://www.netflix.com/title/81153115/",
+    "special": [
+      "emulator",
+      "gba"
+    ]
+  },
+ {
+    "id": 324,
+    "name": "Xor",
+    "cover": "{COVER_URL}/324.png",
+    "url": "{HTML_URL}/324.html",
+    "author": "Alex Vi",
+    "authorLink": "https://www.crazygames.com/game/xor/"
+    ]
+  }
 ]
