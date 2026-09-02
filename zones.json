@@ -3515,5 +3515,13 @@
     "url": "{HTML_URL}/324.html",
     "author": "Alex Vi",
     "authorLink": "https://www.crazygames.com/game/xor/"
+  },
+ {
+    "id": 325,
+    "name": "Rooftop Snipers 2",
+    "cover": "{COVER_URL}/325.png",
+    "url": "{HTML_URL}/325.html",
+    "author": "Neweichgames",
+    "authorLink": "https://www.neweichgames.com"
   }
 ]
