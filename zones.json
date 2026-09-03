@@ -3523,5 +3523,57 @@
     "url": "{HTML_URL}/325.html",
     "author": "Neweichgames",
     "authorLink": "https://www.neweichgames.com"
+  },
+   {
+    "id": 326,
+    "name": "Geometry Dash (Web Dashers)",
+    "cover": "{COVER_URL}/326.png",
+    "url": "{HTML_URL}/326.html",
+    "author": "RobTop Games",
+    "authorLink": "https://geometrydash.com",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 327,
+    "name": "Sprunki Phase 3 DEFINITIVE",
+    "cover": "{COVER_URL}/327.png",
+    "url": "{HTML_URL}/327.html",
+    "author": "guinjiut",
+    "authorLink": "https://www.cocrea.world/@guinjiut/Sprunki-TheDEFINITIVEPhase3",
+    "special": [
+      "incbox"
+    ]
+  },
+  {
+    "id": 328,
+    "name": "Friday Night Funkin': VS. Henry Stickmin V4",
+    "cover": "{COVER_URL}/328.png",
+    "url": "{HTML_URL}/328.html",  
+    "author": "SpiderThiago",
+    "authorLink": "https://gamebanana.com/mods/320504",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 329,
+    "name": "Friday Night Funkin': VS. Seek's Cool Deltarune",
+    "cover": "{COVER_URL}/329.png",
+    "url": "{HTML_URL}/329.html",  
+    "author": "seeksstuff",
+    "authorLink": "https://gamebanana.com/mods/377938",
+    "special": [
+      "fnf"
+    ]
+  },
+ {
+    "id": 330,
+    "name": "Basketball Stars",
+    "cover": "{COVER_URL}/330.png",
+    "url": "{HTML_URL}/330.html",
+    "author": "MadPuffers",
+    "authorLink": "https://poki.com/en/g/basketball-stars"
   }
 ]
