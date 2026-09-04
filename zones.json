@@ -3598,5 +3598,17 @@
     "special": [
       "port"
     ]
+  },
+ {
+    "id": 333,
+    "name": "Klonoa: Door to Phantomile",
+    "cover": "{COVER_URL}/333.png",
+    "url": "{HTML_URL}/333.html",
+    "author": "Namco",
+    "authorLink": "https://bandainamco-am.co.jp/",
+    "special": [
+      "emulator",
+      "psx"
+    ]
   }
 ]
