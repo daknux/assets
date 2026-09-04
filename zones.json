@@ -3610,5 +3610,45 @@
       "emulator",
       "psx"
     ]
+  },
+  {
+    "id": 334,
+    "name": "Cookie Clicker",
+    "cover": "{COVER_URL}/334.png",
+    "url": "{HTML_URL}/334.html",
+    "author": "Orteil",
+    "authorLink": "https://orteil.dashnet.org"
+  },
+ {
+    "id": 335,
+    "name": "Slither.io",
+    "cover": "{COVER_URL}/335.png",
+    "url": "{HTML_URL}/335.html",
+    "author": "slither.io",
+    "authorLink": "http://slither.com/io"
+  },
+ {
+    "id": 336,
+    "name": "South Park N64",
+    "cover": "{COVER_URL}/336.png",
+    "url": "{HTML_URL}/336.html",
+    "author": "Acclaim",
+    "authorLink": "https://en.wikipedia.org/wiki/Acclaim_Entertainment",
+    "special": [
+      "emulator",
+      "n64"
+    ]
+  },
+  {
+    "id": 337,
+    "name": "Starlight Street",
+    "cover": "{COVER_URL}/337.png",
+    "url": "{HTML_URL}/337.html",
+    "author": "Cinemint",
+    "authorLink": "https://cinemint.itch.io/",
+    "special": [
+      "emulator",
+      "gba"
+    ]
   }
 ]
