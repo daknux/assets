@@ -2803,7 +2803,7 @@
     "id": 258,
     "name": "Getaway Shootout",
     "cover": "{COVER_URL}/258.png",
-    "url": "{HTML_URL}/258.html",
+    "url": "{HTML_URL}/258-u.html",
     "author": "New Eich Games",
     "authorLink": "https://www.neweichgames.com"
   },
@@ -3650,5 +3650,24 @@
       "emulator",
       "gba"
     ]
+  },
+  {
+    "id": 338,
+    "name": "Heaven For Death",
+    "cover": "{COVER_URL}/338.png",
+    "url": "{HTML_URL}/338.html",
+    "author": "KiNG",
+    "authorLink": "https://yiminghack.itch.io/",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 339,
+    "name": "How to Date an Entity (and stay alive)",
+    "cover": "{COVER_URL}/339.png",
+    "url": "{HTML_URL}/339.html",
+    "author": "SFour",
+    "authorLink": "https://sfour-s4.itch.io/"
   }
 ]
