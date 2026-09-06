@@ -3669,5 +3669,48 @@
     "url": "{HTML_URL}/339.html",
     "author": "SFour",
     "authorLink": "https://sfour-s4.itch.io/"
+  },
+   {
+    "id": 340,
+    "name": "Nate Hand Gesture",
+    "cover": "{COVER_URL}/340.png",
+    "url": "{HTML_URL}/340.html",
+    "author": "Gilang",
+    "authorLink": "https://store.steampowered.com/app/4959300/Nate_Hand_Gesture/",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 341,
+    "name": "OvO",
+    "cover": "{COVER_URL}/341.png",
+    "url": "{HTML_URL}/341.html",
+    "author": "Dedra Games",
+    "authorLink": "https://dedragames.com"
+  },
+ {
+    "id": 342,
+    "name": "OvO 2",
+    "cover": "{COVER_URL}/342.png",
+    "url": "{HTML_URL}/342.html",
+    "author": "Dedra Games",
+    "authorLink": "https://dedragames.com"
+  },
+ {
+    "id": 343,
+    "name": "OvO 3 Dimensions",
+    "cover": "{COVER_URL}/343.png",
+    "url": "{HTML_URL}/343.html",
+    "author": "Dedra Games",
+    "authorLink": "https://dedragames.com"
+  },
+ {
+    "id": 344,
+    "name": "Blue Vortex",
+    "cover": "{COVER_URL}/344.png",
+    "url": "{HTML_URL}/344.html",
+    "author": "Alexis Clay",
+    "authorLink": "https://alexclay.itch.io/"
   }
 ]
