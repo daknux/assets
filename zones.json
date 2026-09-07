@@ -3712,5 +3712,43 @@
     "url": "{HTML_URL}/344.html",
     "author": "Alexis Clay",
     "authorLink": "https://alexclay.itch.io/"
+  },
+  {
+    "id": 345,
+    "name": "Puppet Hockey Battle",
+    "cover": "{COVER_URL}/345.png",
+    "url": "{HTML_URL}/345.html",
+    "author": "kidsafegames",
+    "authorLink": "https://www.safekidgames.com/puppet-hockey-battle/"
+  },
+  {
+    "id": 346,
+    "name": "Level Devil",
+    "cover": "{COVER_URL}/346.png",
+    "url": "{HTML_URL}/346.html",
+    "author": "Unept",
+    "authorLink": "https://poki.com/en/g/level-devil/"
+  },
+ {
+    "id": 347,
+    "name": "Sonic 1 Github Madness 4",
+    "cover": "{COVER_URL}/347.png",
+    "url": "{HTML_URL}/347.html",
+    "author": "DeltaW, Sonic Stuff Research Group",
+    "authorLink": "https://sonicresearch.org/community/index.php?threads/sonic-1-github-madness-4.7410/",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 347,
+    "name": "Sonic CaDa",
+    "cover": "{COVER_URL}/347.png",
+    "url": "{HTML_URL}/347.html",
+    "author": "CamManS5",
+    "authorLink": "https://shc.zone/entries/contest2025/1402/",
+    "special": [
+      "emulator"
+    ]
   }
 ]
