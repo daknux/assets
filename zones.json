@@ -3750,5 +3750,34 @@
     "special": [
       "emulator"
     ]
+  },
+  {
+    "id": 349,
+    "name": "DELTARUNE: Frostveil",
+    "cover": "{COVER_URL}/349.png",
+    "url": "{HTML_URL}/349.html",
+    "author": "duskkii",
+    "authorLink": "https://gamejolt.com/games/deltarune_frostveil/1058015/",
+    "featured": true,
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 350,
+    "name": "Cave Story",
+    "cover": "{COVER_URL}/350.png",
+    "url": "{HTML_URL}/350.html",
+    "author": " Daisuke 'Pixel' Amaya",
+    "authorLink": "https://www.cavestory.org/"
+  },
+  {
+    "id": 351,
+    "name": "DELTARUNE: A Different Snowgrave",
+    "cover": "{COVER_URL}/351.png",
+    "url": "{HTML_URL}/351.html",
+    "author": " loganvcairns",
+    "authorLink": "https://gamejolt.com/games/DifferentSnowgrave/726965/",
+    "featured": true
   }
 ]
