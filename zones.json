@@ -3768,7 +3768,7 @@
     "name": "Cave Story",
     "cover": "{COVER_URL}/350.png",
     "url": "{HTML_URL}/350.html",
-    "author": " Daisuke 'Pixel' Amaya",
+    "author": "Daisuke 'Pixel' Amaya",
     "authorLink": "https://www.cavestory.org/"
   },
   {
@@ -3776,8 +3776,24 @@
     "name": "DELTARUNE: A Different Snowgrave",
     "cover": "{COVER_URL}/351.png",
     "url": "{HTML_URL}/351.html",
-    "author": " loganvcairns",
+    "author": "loganvcairns",
     "authorLink": "https://gamejolt.com/games/DifferentSnowgrave/726965/",
     "featured": true
+  },
+   {
+    "id": 352,
+    "name": "DELTARUNE: Cat and Mouse",
+    "cover": "{COVER_URL}/352.png",
+    "url": "{HTML_URL}/352.html",
+    "author": "selene3",
+    "authorLink": "https://selene3.itch.io/ch6-device-friend-normal/"
+  },
+   {
+    "id": 353,
+    "name": "DELTARUNE: Knight Rematch",
+    "cover": "{COVER_URL}/353.png",
+    "url": "{HTML_URL}/353.html",
+    "author": "selene3",
+    "authorLink": "https://selene3.itch.io/knight-rematch/"
   }
 ]
