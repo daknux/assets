@@ -3795,5 +3795,17 @@
     "url": "{HTML_URL}/353.html",
     "author": "selene3",
     "authorLink": "https://selene3.itch.io/knight-rematch/"
+  },
+  {
+    "id": 354,
+    "name": "Geometry Dash Difficulty Editor",
+    "cover": "{COVER_URL}/354.png",
+    "url": "{HTML_URL}/354.html",
+    "author": "FrikiYonix",
+    "authorLink": "https://gamejolt.com/games/deltarune_frostveil/1058015/",
+    "featured": true,
+    "special": [
+      "port"
+    ]
   }
 ]
