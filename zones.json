@@ -3818,5 +3818,16 @@
     "special": [
       "port"
     ]
+  },
+ {
+    "id": 356,
+    "name": "Sonic 2 UMZ",
+    "cover": "{COVER_URL}/356.png",
+    "url": "{HTML_URL}/356.html",  
+    "author": "Trinitronity",
+    "authorLink": "https://archive.org/details/Sonic_2_UMZ_Trinitronity_SHC2016/",
+    "special": [
+      "emulator"
+    ]
   }
 ]
