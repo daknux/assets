@@ -3829,5 +3829,13 @@
     "special": [
       "emulator"
     ]
+  },
+  {
+    "id": 357,
+    "name": "Short Life",
+    "cover": "{COVER_URL}/357.png",
+    "url": "{HTML_URL}/357.html",  
+    "author": "Gametornado",
+    "authorLink": "https://poki.com/en/g/short-life/"
   }
 ]
