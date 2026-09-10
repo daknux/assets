@@ -3861,5 +3861,35 @@
     "url": "{HTML_URL}/360.html",
     "author": "EO Interactive",
     "authorLink": "https://apps.apple.com/my/developer/eo-interactive-ltd/id457003279"
+  },
+  {
+    "id": 361,
+    "name": "Bottle Flip 3D",
+    "cover": "{COVER_URL}/361.png",
+    "url": "{HTML_URL}/361.html",
+    "author": "Azur Interactive Games Limited",
+    "authorLink": "https://play.google.com/store/apps/details?id=pampam.ibf2&hl=en-US"
+  },
+ {
+    "id": 362,
+    "name": "Grand Theft Auto: Vice City",
+    "cover": "{COVER_URL}/362.png",
+    "url": "{HTML_URL}/362.html",  
+    "author": "Rockstar Games",
+    "authorLink": "https://www.rockstargames.com",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 363,
+    "name": "IS THAT A GUBBY?",
+    "cover": "{COVER_URL}/363.png",
+    "url": "{HTML_URL}/363.html",  
+    "author": "Fixedone",
+    "authorLink": "https://gamebanana.com/mods/684852",
+    "special": [
+      "port"
+    ]
   }
 ]
