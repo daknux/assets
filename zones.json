@@ -3837,5 +3837,32 @@
     "url": "{HTML_URL}/357.html",  
     "author": "Gametornado",
     "authorLink": "https://poki.com/en/g/short-life/"
+  },
+ {
+    "id": 358,
+    "name": "Temple Run 2",
+    "cover": "{COVER_URL}/358.png",
+    "url": "{HTML_URL}/358.html",
+    "author": "Imangi STUDIOS",
+    "authorLink": "https://imangistudios.com"
+  },
+ {
+    "id": 359,
+    "name": "Big Tower Tiny Square",
+    "cover": "{COVER_URL}/359.png",
+    "url": "{HTML_URL}/359.html",
+    "author": "EvilObjective",
+    "authorLink": "https://evilobjective.itch.io"
+  },
+ {
+    "id": 360,
+    "name": "Big Tower Tiny Square 2",
+    "cover": "{COVER_URL}/360.png",
+    "url": "{HTML_URL}/360.html",
+    "author": "EO Interactive",
+    "authorLink": "https://apps.apple.com/my/developer/eo-interactive-ltd/id457003279",
+    "special": [
+      "flash"
+    ]
   }
 ]
