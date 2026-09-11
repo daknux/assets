@@ -3910,5 +3910,25 @@
     "url": "{HTML_URL}/365.html",  
     "author": "apple039636's request on dc, idk who made this game",
     "authorLink": "https://daknux.github.io/"
+  },
+  {
+    "id": 366,
+    "name": "Action 52",
+    "cover": "{COVER_URL}/366.png",
+    "url": "{HTML_URL}/366.html",  
+    "author": "Active Enterprises",
+    "authorLink": "https://en.wikipedia.org/wiki/Action_52/",
+    "special": [
+      "emulator",
+      "nes"
+    ]
+  },
+  {
+    "id": 367,
+    "name": "Hawk Tuah Breakout",
+    "cover": "{COVER_URL}/367.png",
+    "url": "{HTML_URL}/367.html",  
+    "author": "FamiliarName",
+    "authorLink": "https://scratch.mit.edu/projects/1103527261/"
   }
 ]
