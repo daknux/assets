@@ -3891,5 +3891,24 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 364,
+    "name": "kana.exe",
+    "cover": "{COVER_URL}/364.png",
+    "url": "{HTML_URL}/364.html",  
+    "author": "Hatoge",
+    "authorLink": "https://hatoge.itch.io/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 365,
+    "name": "Fake GTA 6",
+    "cover": "{COVER_URL}/365.png",
+    "url": "{HTML_URL}/365.html",  
+    "author": "apple039636's request on dc, idk who made this game",
+    "authorLink": "https://daknux.github.io/"
   }
 ]
