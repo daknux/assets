@@ -3930,5 +3930,77 @@
     "url": "{HTML_URL}/367.html",  
     "author": "FamiliarName",
     "authorLink": "https://scratch.mit.edu/projects/1103527261/"
+  },
+ {
+    "id": 368,
+    "name": "DELTARUNE: Mike's Big Showdown",
+    "cover": "{COVER_URL}/368.png",
+    "url": "{HTML_URL}/368.html",  
+    "author": "Sad Bread",
+    "authorLink": "https://sadbreadofficial.itch.io/mikes-big-showdown/"
+  },
+ {
+    "id": 369,
+    "name": "DELTARUNE: Free her",
+    "cover": "{COVER_URL}/369.png",
+    "url": "{HTML_URL}/369.html",  
+    "author": "Selene",
+    "authorLink": "https://selene3.itch.io/free-her/"
+  },
+  {
+    "id": 370,
+    "name": "Full Roaring Knight Remake",
+    "cover": "{COVER_URL}/370.png",
+    "url": "{HTML_URL}/370.html",  
+    "author": "Gangstermango",
+    "authorLink": "https://scratch.mit.edu/projects/1197449054/"
+  },
+  {
+    "id": 371,
+    "name": "Baldi's Basics Plus v0.3.2",
+    "cover": "{COVER_URL}/371.png",
+    "url": "{HTML_URL}/371.html",  
+    "author": "Basically Games",
+    "authorLink": "https://basically-games.itch.io/baldis-basics-plus/"
+  },
+  {
+    "id": 372,
+    "name": "Baldi's Basics Plus v0.12.2",
+    "cover": "{COVER_URL}/372.png",
+    "url": "{HTML_URL}/372.html",  
+    "author": "Basically Games",
+    "authorLink": "https://basically-games.itch.io/baldis-basics-plus/"
+  },
+   {
+    "id": 373,
+    "name": "VS Susie (Weird)",
+    "cover": "{COVER_URL}/373.png",
+    "url": "{HTML_URL}/373.html",  
+    "author": "Selene",
+    "authorLink": "https://selene3.itch.io/vs-susie-ch7-weird/"
+  },
+   {
+    "id": 374,
+    "name": "VS Susie (Normal)",
+    "cover": "{COVER_URL}/374.png",
+    "url": "{HTML_URL}/374.html",  
+    "author": "Selene",
+    "authorLink": "https://selene3.itch.io/vs-susie-ch7-normal/"
+  },
+  {
+    "id": 375,
+    "name": "basic'9 re-take",
+    "cover": "{COVER_URL}/375.png",
+    "url": "{HTML_URL}/375.html",  
+    "author": "ORANGE_RESOURCE",
+    "authorLink": "https://orangeresource.itch.io/basic9-re-take/"
+  },
+   {
+    "id": 376,
+    "name": "UNDERTALE vs Gojo",
+    "cover": "{COVER_URL}/376.png",
+    "url": "{HTML_URL}/376.html",  
+    "author": "Gatolinie",
+    "authorLink": "https://gatolinie.itch.io/undertale-vs-gojo/"
   }
 ]
