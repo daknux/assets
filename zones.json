@@ -4002,5 +4002,45 @@
     "url": "{HTML_URL}/376.html",  
     "author": "Gatolinie",
     "authorLink": "https://gatolinie.itch.io/undertale-vs-gojo/"
+  },
+   {
+    "id": 377,
+    "name": "Neon Tide",
+    "cover": "{COVER_URL}/377.png",
+    "url": "{HTML_URL}/377.html",  
+    "author": "PromptPotatoGames",
+    "authorLink": "https://promptpotatogames.itch.io/neon-tide/"
+  },
+ {
+    "id": 378,
+    "name": "Crazy Chicken 3D",
+    "cover": "{COVER_URL}/378.png",
+    "url": "{HTML_URL}/378.html",
+    "author": "Teasle",
+    "authorLink": "https://teasle.itch.io/crazychicken3d"
+  },
+  {
+    "id": 379,
+    "name": "Crazy Cattle 3D Plus",
+    "cover": "{COVER_URL}/379.png",
+    "url": "{HTML_URL}/379.html",
+    "author": "Crooked INK",
+    "authorLink": "https://crooked-ink.itch.io/crazy-cattle-3dplus"
+  },
+ {
+    "id": 380,
+    "name": "Crazy Kitty 3D",
+    "cover": "{COVER_URL}/380.png",
+    "url": "{HTML_URL}/380.html",
+    "author": "Teasle",
+    "authorLink": "https://teasle.itch.io/crazykitty3d"
+  },
+ {
+    "id": 380,
+    "name": "Minceraft I NotMine V6",
+    "cover": "{COVER_URL}/380.png",
+    "url": "{HTML_URL}/380.html",
+    "author": "Richi2PL",
+    "authorLink": "https://github.com/Richi2PL/Minceraft-I-NotMine/blob/main/"
   }
 ]
