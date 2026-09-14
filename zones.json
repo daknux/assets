@@ -4128,5 +4128,13 @@
     "special": [
       "fnf"
     ]
+  },
+   {
+    "id": 390,
+    "name": "Tomb Of The Mask",
+    "cover": "{COVER_URL}/390.png",
+    "url": "{HTML_URL}/390.html",
+    "author": "Happymagenta UAB",
+    "authorLink": "https://happymagenta.com/"
   }
 ]
