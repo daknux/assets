@@ -4073,5 +4073,60 @@
     "url": "{HTML_URL}/384.html",
     "author": "Ericetto",
     "authorLink": "https://www.snokido.com/author/ericetto"
+  },
+ {
+    "id": 385,
+    "name": "Friday Night Funkin': Mario's Madness",
+    "cover": "{COVER_URL}/385.png",
+    "url": "{HTML_URL}/385.html",
+    "author": "Dewott2501 etc",
+    "authorLink": "https://gamebanana.com/mods/359554",
+   "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 386,
+    "name": "Friday Night Funkin' vs Hypno Lullaby",
+    "cover": "{COVER_URL}/386.png",
+    "url": "{HTML_URL}/386.html",
+    "author": "Hypno Lullaby Team",
+    "authorLink": "https://gamejolt.com/games/hypnos-lullabyv2cancelled/758792",
+    "special": [
+      "fnf"
+    ]
+  },
+ {
+    "id": 387,
+    "name": "Friday Night Funkin': Rev-Mixed",
+    "cover": "{COVER_URL}/387.png",
+    "url": "{HTML_URL}/387.html",
+    "author": "Rev-Mixed team",
+    "authorLink": "https://gamebanana.com/mods/621085" ,
+    "special": [
+      "fnf"
+    ]
+  },
+ {
+    "id": 388,
+    "name": "Friday Night Funkin': VS. Mario Ultra Rebooted",
+    "cover": "{COVER_URL}/388.png",
+    "url": "{HTML_URL}/388.html",  
+    "author": "Crappy Productions",
+    "authorLink": "https://gamejolt.com/games/FNFVSMUR-Legacy-Edition/759013",
+    "special": [
+      "fnf"
+    ]
+  },
+  {
+    "id": 389,
+    "name": "Friday Night Funkin': VS. Super Mario Bros. Funk Mix DX",
+    "cover": "{COVER_URL}/389.png",
+    "url": "{HTML_URL}/389.html",  
+    "author": "Traveler_Snak",
+    "authorLink": "https://gamebanana.com/mods/346928",
+    "special": [
+      "fnf"
+    ]
   }
 ]
