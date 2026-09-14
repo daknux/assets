@@ -4042,5 +4042,36 @@
     "url": "{HTML_URL}/381.html",
     "author": "Richi2PL",
     "authorLink": "https://github.com/Richi2PL/Minceraft-I-NotMine/blob/main/"
+  },
+  {
+    "id": 382,
+    "name": "Sonic Delta Origins",
+    "cover": "{COVER_URL}/382.png",
+    "url": "{HTML_URL}/382.html",
+    "author": "Esrael Neto",
+    "authorLink": "https://shc.zone/entries/contest2024/1021/",
+    "special": [
+      "emulator"
+    ]
+  },
+  {
+    "id": 383,
+    "name": "Tony Hawk's Pro Skater 2 (GBA)",
+    "cover": "{COVER_URL}/383.png",
+    "url": "{HTML_URL}/383.html",
+    "author": "Activision",
+    "authorLink": "https://www.activision.com/",
+    "special": [
+      "emulator",
+      "gba"
+    ]
+  },
+ {
+    "id": 384,
+    "name": "Ragdoll Archers",
+    "cover": "{COVER_URL}/384.png",
+    "url": "{HTML_URL}/384.html",
+    "author": "Ericetto",
+    "authorLink": "https://www.snokido.com/author/ericetto"
   }
 ]
