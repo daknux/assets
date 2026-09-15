@@ -4147,5 +4147,21 @@
     "special": [
       "emulator"
     ]
+  },
+    {
+    "id": 392,
+    "name": "Only Up (CLONE)",
+    "cover": "{COVER_URL}/392.png",
+    "url": "{HTML_URL}/392.html",
+    "author": "Craft Game World",
+    "authorLink": "https://machita66.com/game/onlyup.html"
+  },
+ {
+    "id": 393,
+    "name": "Volley Random",
+    "cover": "{COVER_URL}/393.png",
+    "url": "{HTML_URL}/393.html",
+    "author": "RHM Interactive",
+    "authorLink": "https://www.crazygames.com/game/volley-random"
   }
 ]
