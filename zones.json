@@ -4136,5 +4136,16 @@
     "url": "{HTML_URL}/390.html",
     "author": "Happymagenta UAB",
     "authorLink": "https://happymagenta.com/"
-  }
+  },
+  {
+    "id": 391,
+    "name": "SONICU THE CUBEHOG",
+    "cover": "{COVER_URL}/391.png",
+    "url": "{HTML_URL}/391.html",  
+    "author": "C.A.L.D.M_2001",
+    "authorLink": "https://shc.zone/",
+    "special": [
+      "emulator"
+    ]
+  },
 ]
