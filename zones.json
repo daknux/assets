@@ -4175,5 +4175,25 @@
       "emulator",
       "nes"
     ]
+  },
+ {
+    "id": 395,
+    "name": "Ruffle",
+    "cover": "{COVER_URL}/395.png",
+    "url": "{HTML_URL}/395.html",
+    "author": "Mike Welsh",
+    "authorLink": "https://ruffle.rs/",
+    "special": [
+      "emulator",
+      "flash"
+    ]
+  },
+  {
+    "id": 396,
+    "name": "NIMRODS",
+    "cover": "{COVER_URL}/396.png",
+    "url": "{HTML_URL}/396.html",
+    "author": "Fiveamp",
+    "authorLink": "https://store.steampowered.com/app/2086430/NIMRODS/"
   }
 ]
