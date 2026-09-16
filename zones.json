@@ -4163,5 +4163,17 @@
     "url": "{HTML_URL}/393.html",
     "author": "RHM Interactive",
     "authorLink": "https://www.crazygames.com/game/volley-random"
+  },
+ {
+    "id": 394,
+    "name": "SOMARI",
+    "cover": "{COVER_URL}/394.png",
+    "url": "{HTML_URL}/394.html",  
+    "author": "Hummer Team, Ge De Industry Co",
+    "authorLink": "https://en.wikipedia.org/wiki/Somari/",
+    "special": [
+      "emulator",
+      "nes"
+    ]
   }
 ]
