@@ -4203,5 +4203,24 @@
     "url": "{HTML_URL}/397.html",
     "author": "Donitz",
     "authorLink": "https://donitz.itch.io/burger-frights"
- }
+ },
+    {
+    "id": 398,
+    "name": "Sonic 1 but YOU HATE GREEN HILL ZONE",
+    "cover": "{COVER_URL}/398.png",
+    "url": "{HTML_URL}/398.html",
+    "author": "Selbi",
+    "authorLink": "https://www.youtube.com/@selbi182",
+    "special": [
+      "emulator"
+    ]
+  },
+   {
+    "id": 399,
+    "name": "Paper.io 2",
+    "cover": "{COVER_URL}/399.png",
+    "url": "{HTML_URL}/399.html",
+    "author": "VOODOO",
+    "authorLink": "https://voodoo.io"
+  }
 ]
