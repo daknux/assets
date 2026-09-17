@@ -4195,5 +4195,13 @@
     "url": "{HTML_URL}/396.html",
     "author": "Fiveamp",
     "authorLink": "https://store.steampowered.com/app/2086430/NIMRODS/"
-  }
+  },
+ {
+    "id": 397,
+    "name": "Burger and Frights",
+    "cover": "{COVER_URL}/397.png",
+    "url": "{HTML_URL}/397.html",
+    "author": "Donitz",
+    "authorLink": "https://donitz.itch.io/burger-frights"
+ }
 ]
