@@ -4222,5 +4222,13 @@
     "url": "{HTML_URL}/399.html",
     "author": "VOODOO",
     "authorLink": "https://voodoo.io"
+  },
+    {
+    "id": 400,
+    "name": "Social Democracy: An Alternate History",
+    "cover": "{COVER_URL}/400.png",
+    "url": "{HTML_URL}/400.html",
+    "author": "Autumn Chen",
+    "authorLink": "https://red-autumn.itch.io/social-democracy"
   }
 ]
