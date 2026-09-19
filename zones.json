@@ -4238,5 +4238,16 @@
     "url": "{HTML_URL}/401.html",
     "author": "RHM Interactive",
     "authorLink": "https://www.twoplayergames.org/game/fly-car-stunt-5"
+  },
+  {
+    "id": 402,
+    "name": "Nightwatch Duties at Freddy's",
+    "cover": "{COVER_URL}/402.png",
+    "url": "{HTML_URL}/402.html",  
+    "author": "Pelf0xx",
+    "authorLink": "https://gamejolt.com/games/NWDaF/1090708",
+    "special": [
+      "port"
+    ]
   }
 ]
