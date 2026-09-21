@@ -4272,5 +4272,37 @@
     "special": [
       "flash"
     ]
+  },
+  {
+    "id": 405,
+    "name": "WitchCraft TD",
+    "cover": "{COVER_URL}/405.png",
+    "url": "{HTML_URL}/405-b.html",
+    "author": "unikotoast",
+    "authorLink": "https://unikotoast.itch.io/witchcraft-td"
+  },
+  {
+    "id": 406,
+    "name": "Tuff Client",
+    "cover": "{COVER_URL}/406.png",
+    "url": "{HTML_URL}/406.html",
+    "author": "Tuff Network, og game by Microsoft and Mojang",
+    "authorLink": "https://github.com/TuffNetwork"
+  },
+ {
+    "id": 407,
+    "name": "Retro Bowl College",
+    "cover": "{COVER_URL}/407.png",
+    "url": "{HTML_URL}/407.html",
+    "author": "New Star Games",
+    "authorLink": "https://www.newstargames.com/"
+  },
+  {
+    "id": 408,
+    "name": "Demolition Derby Crash Racing",
+    "cover": "{COVER_URL}/408.png",
+    "url": "{HTML_URL}/408.html",
+    "author": "No Pressure Studios",
+    "authorLink": "https://poki.com/en/g/demolition-derby-crash-racing"
   }
 ]
