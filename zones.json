@@ -4250,5 +4250,27 @@
     "special": [
       "port"
     ]
+  },
+ {
+    "id": 403,
+    "name": "Bleach Vs Naruto",
+    "cover": "{COVER_URL}/403.png",
+    "url": "{HTML_URL}/403.html",  
+    "author": "5Dplay",
+    "authorLink": "https://github.com/5DPLAY-Game-Studio/BleachVsNaruto",
+    "special": [
+      "flash"
+    ]
+  },
+ {
+    "id": 404,
+    "name": "60 Second Santa Run",
+    "cover": "{COVER_URL}/404.png",
+    "url": "{HTML_URL}/404.html",  
+    "author": "Gameshot.org",
+    "authorLink": "https://www.gameshot.org/",
+    "special": [
+      "flash"
+    ]
   }
 ]
