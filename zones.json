@@ -4326,5 +4326,32 @@
     "special": [
       "emulator"
     ]
+  },
+   {
+    "id": 411,
+    "name": "Kalikan",
+    "cover": "{COVER_URL}/411.png",
+    "url": "{HTML_URL}/411.html",
+    "author": "LouieChapm",
+    "authorLink": "https://louiechapm.itch.io/kalikan"
+  },
+    {
+    "id": 412,
+    "name": "Low Knight",
+    "cover": "{COVER_URL}/412.png",
+    "url": "{HTML_URL}/412.html",
+    "author": "Jakub Wasilewski",
+    "authorLink": "https://krajzeg.itch.io/low-knight"
+  },
+ {
+    "id": 410,
+    "name": "Pom Gets Wi-Fi",
+    "cover": "{COVER_URL}/410.png",
+    "url": "{HTML_URL}/410.html",  
+    "author": "Brianna Lei",
+    "authorLink": "https://brianna-lei.itch.io/pom-gets-wi-fi",
+    "special": [
+      "port"
+    ]
   }
 ]
