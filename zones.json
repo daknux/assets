@@ -4304,5 +4304,27 @@
     "url": "{HTML_URL}/408.html",
     "author": "No Pressure Studios",
     "authorLink": "https://poki.com/en/g/demolition-derby-crash-racing"
+  },
+  {
+    "id": 409,
+    "name": "Sonic 1 DLCM Remaster",
+    "cover": "{COVER_URL}/409.png",
+    "url": "{HTML_URL}/409.html",  
+    "author": "Joshwoakes",
+    "authorLink": "https://sonicresearch.org/community/index.php?threads/sonic-1-dlcm-remaster.7392/",
+    "special": [
+      "emulator"
+    ]
+  },
+   {
+    "id": 410,
+    "name": "Sonic 1: The Naked Hedgehog",
+    "cover": "{COVER_URL}/410.png",
+    "url": "{HTML_URL}/410.html",  
+    "author": "MarkeyJester",
+    "authorLink": "https://forums.sonicretro.org/threads/the-naked-hedgehog.32805/",
+    "special": [
+      "emulator"
+    ]
   }
 ]
