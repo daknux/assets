@@ -4361,6 +4361,7 @@
     "url": "{HTML_URL}/414.html", 
     "author": "Activision",
     "authorLink": "https://www.activision.com/",
+    "featured": true,
     "special": [
       "port",
       "fps"
@@ -4388,6 +4389,18 @@
     "special": [
       "port",
       "dos"
+    ]
+  },
+    {
+    "id": 417,
+    "name": "DASprunk Chat",
+    "cover": "{COVER_URL}/417.png",
+    "url": "{HTML_URL}/417.html", 
+    "author": "DASprunk",
+    "authorLink": "https://sites.google.com/view/dasprunk",
+    "featured": true,
+    "special": [
+      "tools"
     ]
   }
 ]
