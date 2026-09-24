@@ -4445,5 +4445,17 @@
     "special": [
       "port"
     ]
-  }
+  },
+  {
+    "id": 422,
+    "name": "Geometry Dash (WASM)",
+    "cover": "{COVER_URL}/422.png",
+    "url": "{HTML_URL}/422.html",
+    "author": "RobTop Games, bog",
+    "authorLink": "https://truffled.lol/",
+    "featured": true,
+    "special": [
+      "port"
+    ]
+  },
 ]
