@@ -4402,5 +4402,48 @@
     "special": [
       "tools"
     ]
+  },
+  {
+    "id": 418,
+    "name": "Minecraft 26.2",
+    "cover": "{COVER_URL}/418.png",
+    "url": "{HTML_URL}/418.html",
+    "author": "fangame by LAX1DUDE, credits to Mojang and Microsoft",
+    "authorLink": "https://tinyurl.com/mueybjkn",
+    "featured": true
+  },
+ {
+    "id": 419,
+    "name": "Kindergarten",
+    "cover": "{COVER_URL}/419.png",
+    "url": "{HTML_URL}/419.html",
+    "author": "Con Man Games, SmashGames and Sean Young",
+    "authorLink": "https://store.steampowered.com/app/589590/Kindergarten",
+    "featured": true,
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 420,
+    "name": "Kindergarten 2",
+    "cover": "{COVER_URL}/420.png",
+    "url": "{HTML_URL}/420.html",
+    "author": "Con Man Games, SmashGames and Sean Young",
+    "authorLink": "https://store.steampowered.com/app/1067850/Kindergarten_2",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 421,
+    "name": "Kindergarten 3",
+    "cover": "{COVER_URL}/421.png",
+    "url": "{HTML_URL}/421.html",
+    "author": "Con Man Games, SmashGames and Sean Young",
+    "authorLink": "https://store.steampowered.com/app/2695570/Kindergarten_3/",
+    "special": [
+      "port"
+    ]
   }
 ]
