@@ -4457,5 +4457,16 @@
     "special": [
       "port"
     ]
+  },
+ {
+    "id": 423,
+    "name": "Papa Louie: When Pizzas Attack",
+    "cover": "{COVER_URL}/423.png",
+    "url": "{HTML_URL}/423.html",
+    "author": "Flipline Studios",
+    "authorLink": "https://www.flipline.com",
+    "special": [
+      "flash"
+    ]
   }
 ]
