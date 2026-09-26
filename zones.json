@@ -4468,5 +4468,13 @@
     "special": [
       "flash"
     ]
+  },
+     {
+    "id": 424,
+    "name": "Somniphobia: DustTale",
+    "cover": "{COVER_URL}/424.png",
+    "url": "{HTML_URL}/424.html",
+    "author": "cross",
+    "authorLink": "https://cross-0673.itch.io/somniphobia"
   }
 ]
