@@ -4476,5 +4476,24 @@
     "url": "{HTML_URL}/424.html",
     "author": "cross",
     "authorLink": "https://cross-0673.itch.io/somniphobia"
+  },
+ {
+    "id": 425,
+    "name": "Undertale 10th Anniversary",
+    "cover": "{COVER_URL}/425.png",
+    "url": "{HTML_URL}/425.html",
+    "author": "Toby Fox",
+    "authorLink": "https://ut10-battle.undertale.com/"
+  },
+  {
+    "id": 426,
+    "name": "Lacey's Flash Games",
+    "cover": "{COVER_URL}/426.png",
+    "url": "{HTML_URL}/426.html",
+    "author": "ghosttundra, Euroclipse, Brand New Groove",
+    "authorLink": "https://laceysflashgames.itch.io/laceys-flash-games",
+    "special": [
+      "port"
+    ]
   }
 ]
