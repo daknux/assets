@@ -4506,5 +4506,24 @@
     "special": [
       "incbox"
     ]
+  },
+   {
+    "id": 428,
+    "name": "Sonic Pocket Adventure",
+    "cover": "{COVER_URL}/428.png",
+    "url": "{HTML_URL}/428.html", 
+    "author": "SEGA, SNK, Dimps",
+    "authorLink": "https://sega.com/",
+    "special": [
+      "emulator"
+    ]
+  },
+ {
+    "id": 429,
+    "name": "Tube Jumpers",
+    "cover": "{COVER_URL}/429.png",
+    "url": "{HTML_URL}/429.html",
+    "author": "New Eich Games",
+    "authorLink": "https://www.neweichgames.com"
   }
 ]
