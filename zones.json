@@ -4495,5 +4495,16 @@
     "special": [
       "port"
     ]
+  },
+   {
+    "id": 427,
+    "name": "SPRUNKI.MSI",
+    "cover": "{COVER_URL}/427.png",
+    "url": "{HTML_URL}/427.html",
+    "author": "Dylan The Wolf",
+    "authorLink": "https://www.cocrea.world/@DylanTheWolf",
+    "special": [
+      "incbox"
+    ]
   }
 ]
