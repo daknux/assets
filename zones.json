@@ -4569,5 +4569,27 @@
     "special": [
       "flash"
     ]
+  },
+    {
+    "id": 434,
+    "name": "Sprunki: Durple Treatment",
+    "cover": "{COVER_URL}/434.png",
+    "url": "{HTML_URL}/434.html",
+    "author": "Kyntrix",
+    "authorLink": "https://kyntrix.itch.io/wip-incredibox-sprunki-durple-treatment",
+    "special": [
+      "incbox"
+    ]
+  },
+    {
+    "id": 435,
+    "name": "Sonic Primo",
+    "cover": "{COVER_URL}/435.png",
+    "url": "{HTML_URL}/435.html",
+    "author": "RobiWanKenobi",
+    "authorLink": "https://shc.zone/entries/contest2023/791",
+    "special": [
+      "emulator"
+    ]
   }
 ]
