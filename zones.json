@@ -4525,5 +4525,49 @@
     "url": "{HTML_URL}/429.html",
     "author": "New Eich Games",
     "authorLink": "https://www.neweichgames.com"
+  },
+  {
+    "id": 430,
+    "name": "The World's Hardest Game",
+    "cover": "{COVER_URL}/430.png",
+    "url": "{HTML_URL}/430.html",
+    "author": "Stevie Critoph",
+    "authorLink": "https://stephencritoph.com/",
+    "special": [
+      "flash"
+    ]
+  },
+   {
+    "id": 431,
+    "name": "The World's Hardest Game 2",
+    "cover": "{COVER_URL}/431.png",
+    "url": "{HTML_URL}/431.html",
+    "author": "Stevie Critoph",
+    "authorLink": "https://stephencritoph.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 432,
+    "name": "The World's Hardest Game 3",
+    "cover": "{COVER_URL}/432.png",
+    "url": "{HTML_URL}/432.html",
+    "author": "Stevie Critoph",
+    "authorLink": "https://stephencritoph.com/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 433,
+    "name": "The World's Hardest Game 4",
+    "cover": "{COVER_URL}/433.png",
+    "url": "{HTML_URL}/433.html",
+    "author": "Stevie Critoph",
+    "authorLink": "https://stephencritoph.com/",
+    "special": [
+      "flash"
+    ]
   }
 ]
