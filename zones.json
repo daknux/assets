@@ -4591,5 +4591,39 @@
     "special": [
       "emulator"
     ]
+  },
+   {
+    "id": 436,
+    "name": "Lethal Company",
+    "cover": "{COVER_URL}/436.png",
+    "url": "{HTML_URL}/436.html",  
+    "author": "Zeekerss",
+    "authorLink": "https://store.steampowered.com/app/1966720/Lethal_Company/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 437,
+    "name": "Team Fortress 2",
+    "cover": "{COVER_URL}/437.png",
+    "url": "{HTML_URL}/437.html",  
+    "author": "Valve",
+    "authorLink": "https://store.steampowered.com/app/440/Team_Fortress_2/",
+    "special": [
+      "port",
+      "fps"
+    ]
+  },
+  {
+    "id": 438,
+    "name": "Gang Beasts",
+    "cover": "{COVER_URL}/438.png",
+    "url": "{HTML_URL}/438.html",  
+    "author": "Boneloaf, Rocket Science",
+    "authorLink": "https://store.steampowered.com/app/285900/Gang_Beasts/",
+    "special": [
+      "port"
+    ]
   }
 ]
