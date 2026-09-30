@@ -4625,5 +4625,29 @@
     "special": [
       "port"
     ]
+  },
+ {
+    "id": 439,
+    "name": "Fire Emblem",
+    "cover": "{COVER_URL}/439.png",
+    "url": "{HTML_URL}/439.html",
+    "author": "Nintendo",
+    "authorLink": "https://nintendo.com",
+    "special": [
+      "emulator",
+      "gba"
+    ]
+  },
+ {
+    "id": 440,
+    "name": "Final Fantasy",
+    "cover": "{COVER_URL}/440.png",
+    "url": "{HTML_URL}/440.html",
+    "author": "Square Enix",
+    "authorLink": "https://www.square-enix.com/",
+    "special": [
+      "emulator",
+      "nes"
+    ]
   }
 ]
