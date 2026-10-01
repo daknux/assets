@@ -4649,5 +4649,27 @@
       "emulator",
       "nes"
     ]
+  },
+   {
+    "id": 441,
+    "name": "Sprunki Swap Retextured",
+    "cover": "{COVER_URL}/441.png",
+    "url": "{HTML_URL}/441.html",
+    "author": "PuffBarIs968",
+    "authorLink": "https://puffbaris968.itch.io/sprunki-swap-retextured",
+    "special": [
+      "incbox"
+    ]
+  },
+   {
+    "id": 442,
+    "name": "Sonic Renovation - Gold Edition",
+    "cover": "{COVER_URL}/442.png",
+    "url": "{HTML_URL}/442.html",  
+    "author": "Zakion Games, Adraino, Dewmer",
+    "authorLink": "https://www.mediafire.com/file/bksim7bmhdjqhuz/Sonic_Renovation_-_Gold_Edition.rar/file",
+    "special": [
+      "emulator"
+    ]
   }
 ]
