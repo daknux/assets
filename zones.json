@@ -4671,5 +4671,13 @@
     "special": [
       "emulator"
     ]
+  },
+  {
+    "id": 443,
+    "name": "Cookie Clicker",
+    "cover": "{COVER_URL}/443.png",
+    "url": "{HTML_URL}/443.html",
+    "author": "Orteil",
+    "authorLink": "https://orteil.dashnet.org"
   }
 ]
