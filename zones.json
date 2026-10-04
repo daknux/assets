@@ -3336,7 +3336,7 @@
     "id": 307,
     "name": "Baldi's Basics Squared Filler Demo",
     "cover": "{COVER_URL}/307.png",
-    "url": "{HTML_URL}/307-ff.html",
+    "url": "{HTML_URL}/307-ft.html",
     "author": "Naberson265, RalseiRals",
     "authorLink": "https://naberson265.itch.io/"
  },
@@ -4690,5 +4690,123 @@
     "special": [
       "incbox"
     ]
+  },
+   {
+    "id": 445,
+    "name": "Baldi's Basics: The Lost School",
+    "cover": "{COVER_URL}/445.png",
+    "url": "{HTML_URL}/445.html",
+    "author": "SimplyJam Games",
+    "authorLink": "https://simplyjam.itch.io/lostschool"
+  },
+    {
+    "id": 446,
+    "name": "Nowan's Bread Factory",
+    "cover": "{COVER_URL}/446.png",
+    "url": "{HTML_URL}/446.html",
+    "author": "MOXISBTIERGAMES",
+    "authorLink": "https://moxisbtiergames.itch.io/nowansbreadfactory"
+  },
+   {
+    "id": 447,
+    "name": "Nowan's Bread Factory 2",
+    "cover": "{COVER_URL}/447.png",
+    "url": "{HTML_URL}/447.html",
+    "author": "MOXISBTIERGAMES",
+    "authorLink": "https://moxisbtiergames.itch.io/nowans-bread-factory-2-a-new-batch"
+  },
+  {
+    "id": 448,
+    "name": "Kat Basic 3D Remaster",
+    "cover": "{COVER_URL}/448.png",
+    "url": "{HTML_URL}/448.html",
+    "author": "ExpertNoob1019",
+    "authorLink": "https://expertnoob1019.itch.io/kb3d"
+  },
+ {
+    "id": 449,
+    "name": "Baldi's Basics Birthday Bash",
+    "cover": "{COVER_URL}/449.png",
+    "url": "{HTML_URL}/449.html",
+    "author": "Basically Games",
+    "authorLink": "https://basically-games.itch.io/baldis-basics-birthday-bash"
+  },
+  {
+    "id": 450,
+    "name": "MANTLE.EXE",
+    "cover": "{COVER_URL}/450.png",
+    "url": "{HTML_URL}/450.html",
+    "author": "DrMelon",
+    "authorLink": "https://drmelon.itch.io/mantle"
+  },
+  {
+    "id": 451,
+    "name": "Baldi's Basics Classic Remastered",
+    "cover": "{COVER_URL}/451.png",
+    "url": "{HTML_URL}/451.html",
+    "author": "Basically Games",
+    "authorLink": "https://basically-games.itch.io/baldis-basics-classic-remastered"
+  },
+  {
+    "id": 452,
+    "name": "JOJORUNE: VS Dio",
+    "cover": "{COVER_URL}/452.png",
+    "url": "{HTML_URL}/452.html",
+    "author": "Zenlaeth",
+    "authorLink": "https://zenlaeth.itch.io/jojorune-vs-dio"
+  },
+   {
+    "id": 453,
+    "name": "DreamEscape",
+    "cover": "{COVER_URL}/453.png",
+    "url": "{HTML_URL}/453.html",
+    "author": "CleverName",
+    "authorLink": "https://clever-user-name.itch.io/dreamescape"
+  },
+   {
+    "id": 454,
+    "name": "Baldi's Basics Classic 1.4.2",
+    "cover": "{COVER_URL}/454.png",
+    "url": "{HTML_URL}/454.html",
+    "author": "Basically Games",
+    "authorLink": "https://basically-games.itch.io/"
+  },
+   {
+    "id": 455,
+    "name": "Baldi's Basics Field Trip Demo",
+    "cover": "{COVER_URL}/455.png",
+    "url": "{HTML_URL}/455.html",
+    "author": "Basically Games",
+    "authorLink": "https://basically-games.itch.io/"
+  },
+  {
+    "id": 456,
+    "name": "Lethal Ape",
+    "cover": "{COVER_URL}/456.png",
+    "url": "{HTML_URL}/456.html", 
+    "author": "StellaDev",
+    "authorLink": "https://stella-dev.itch.io/lethal-ape",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 457,
+    "name": "Gorilla Tag",
+    "cover": "{COVER_URL}/457.png",
+    "url": "{HTML_URL}/457.html",
+    "author": "Another Axiom Inc, Boolonx",
+    "authorLink": "https://boolonx.com/gtag/?utm_source=gn-math.dev&utm_medium=referral&utm_campaign=gn-math.dev",
+    "special": [
+      "port"
+    ]
+  },
+   {
+    "id": 458,
+    "name": "Baldi Basics PLUS [Lost version]",
+    "cover": "{COVER_URL}/458.png",
+    "url": "{HTML_URL}/458.html",
+    "author": "JAVAS_GAMES-64",
+    "authorLink": "https://gamejolt.com/games/baldiplusearly/1019387"
   }
 ]
