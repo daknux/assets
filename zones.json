@@ -4836,5 +4836,13 @@
     "special": [
       "port"
     ]
+  },
+    {
+    "id": 462,
+    "name": "WebOsz",
+    "cover": "{COVER_URL}/462.png",
+    "url": "{HTML_URL}/462.html",
+    "author": "kaanreal",
+    "authorLink": "https://github.com/kaanreal/WebOsz"
   }
 ]
