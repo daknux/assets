@@ -3418,7 +3418,7 @@
     "id": 315,
     "name": "Baldi's Basics in Minigames 2",
     "cover": "{COVER_URL}/315.png",
-    "url": "{HTML_URL}/315-ff.html",
+    "url": "{HTML_URL}/315-ft.html",
     "author": "Steph45",
     "authorLink": "https://steph45.itch.io/baldis-basics-in-minigames-2/",
     "special": [
@@ -4695,7 +4695,7 @@
     "id": 445,
     "name": "Baldi's Basics: The Lost School",
     "cover": "{COVER_URL}/445.png",
-    "url": "{HTML_URL}/445.html",
+    "url": "{HTML_URL}/445-f.html",
     "author": "SimplyJam Games",
     "authorLink": "https://simplyjam.itch.io/lostschool"
   },
@@ -4759,7 +4759,7 @@
     "id": 453,
     "name": "DreamEscape",
     "cover": "{COVER_URL}/453.png",
-    "url": "{HTML_URL}/453.html",
+    "url": "{HTML_URL}/453-a.html",
     "author": "CleverName",
     "authorLink": "https://clever-user-name.itch.io/dreamescape"
   },
@@ -4808,5 +4808,33 @@
     "url": "{HTML_URL}/458.html",
     "author": "JAVAS_GAMES-64",
     "authorLink": "https://gamejolt.com/games/baldiplusearly/1019387"
+  },
+   {
+    "id": 459,
+    "name": "Minecraft 1.16.5",
+    "cover": "{COVER_URL}/459.png",
+    "url": "{HTML_URL}/459.html",
+    "author": "Anonymous, credits to Mojang and Microsoft",
+    "authorLink": "https://www.youtube.com/shorts/den8Q2gi-R8"
+  },
+   {
+    "id": 460,
+    "name": "Minecraft 1.14.4",
+    "cover": "{COVER_URL}/460.png",
+    "url": "{HTML_URL}/460.html",
+    "author": "Anonymous, credits to Mojang and Microsoft",
+    "authorLink": "https://eymenwsmc.site/downloads"
+  },
+   {
+    "id": 461,
+    "name": "Buckshot Roulette",
+    "cover": "{COVER_URL}/461.png",
+    "url": "{HTML_URL}/461.html",
+    "author": "Mike Klubnika",
+    "authorLink": "https://mikeklubnika.itch.io/buckshot-roulette",
+    "featured": true,
+    "special": [
+      "port"
+    ]
   }
 ]
