@@ -4849,8 +4849,24 @@
     "id": 463,
     "name": "Deltarune and Undertale OST Player",
     "cover": "{COVER_URL}/463.png",
-    "url": "{HTML_URL}/463-f.html",
+    "url": "{HTML_URL}/463-shed.html",
     "author": "Toby Fox, RalseiRals",
     "authorLink": "https://deltarune.com/"
+  },
+     {
+    "id": 464,
+    "name": "Cave System",
+    "cover": "{COVER_URL}/464.png",
+    "url": "{HTML_URL}/464.html",
+    "author": "Late Night Tom",
+    "authorLink": "https://late-night-tom.itch.io/cave-system"
+  },
+     {
+    "id": 465,
+    "name": "My Deltarune",
+    "cover": "{COVER_URL}/465.png",
+    "url": "{HTML_URL}/465.html",
+    "author": "Kojinruki",
+    "authorLink": "https://kojinruki.itch.io/mydeltarune"
   }
 ]
