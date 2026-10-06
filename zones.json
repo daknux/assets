@@ -10,7 +10,7 @@
   },
 {
     "id": -1,
-    "name": "[!] MORE FUN AT .gg/ZF4YZZCbZ6",
+    "name": "[!] SUGGEST YOUR GAMES HERE AT .gg/ZF4YZZCbZ6",
     "cover": "https://cdn.jsdelivr.net/gh/daknux/assets@main/dc.png",
     "url": "https://discord.gg/ZF4YZZCbZ6",
     "featured": true
@@ -4886,6 +4886,28 @@
     "authorLink": "https://gamejolt.com/games/RMQ2/641169",
     "special": [
       "port"
+    ]
+  },
+ {
+    "id": 468,
+    "name": "Welcome to the Coffin Club!",
+    "cover": "{COVER_URL}/468.png",
+    "url": "{HTML_URL}/468.html",
+    "author": "Cookie Croc Studio",
+    "authorLink": "https://cookie-croc-studio.itch.io/boas-vindas-ao-clube-do-caixao",
+    "special": [
+      "spanish"
+    ]
+  },
+  {
+    "id": 469,
+    "name": "John K.'s Labyrinth Zone Challenge",
+    "cover": "{COVER_URL}/469.png",
+    "url": "{HTML_URL}/469.html",
+    "author": "Fanduber",
+    "authorLink": "https://sonicresearch.org/community/index.php?threads/random-hack-mini-project-thread.3230/page-68",
+    "special": [
+      "emulator"
     ]
   }
 ]
