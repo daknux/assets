@@ -4909,5 +4909,13 @@
     "special": [
       "emulator"
     ]
+  },
+  {
+    "id": 470,
+    "name": "Space Huggers",
+    "cover": "{COVER_URL}/470.png",
+    "url": "{HTML_URL}/470.html",
+    "author": "KilledByAPixel",
+    "authorLink": "https://www.newgrounds.com/portal/view/819609"
   }
 ]
