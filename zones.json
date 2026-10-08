@@ -77,7 +77,6 @@
     "url": "{HTML_URL}/5.html",
     "author": "Pluto from the hit game OMORI",
     "authorLink": "https://omori.fandom.com/wiki/PLUTO",
-    "featured": true,
     "special": [
       "emulator"
     ]
@@ -4917,5 +4916,29 @@
     "url": "{HTML_URL}/470.html",
     "author": "KilledByAPixel",
     "authorLink": "https://www.newgrounds.com/portal/view/819609"
+  },
+  {
+    "id": 471,
+    "name": "1v1.LOL RELOADED",
+    "cover": "{COVER_URL}/471.png",
+    "url": "{HTML_URL}/471.html",
+    "author": "John1v1",
+    "authorLink": "https://1v1lolreloaded.com/",
+    "featured": true,
+    "special": [
+      "fps"
+    ]
+  },
+ {
+    "id": 472,
+    "name": "Hollow Knight",
+    "cover": "{COVER_URL}/472.png",
+    "url": "{HTML_URL}/472.html",
+    "author": "Team Cherry",
+    "authorLink": "https://store.steampowered.com/app/367520/Hollow_Knight",
+    "featured": true,
+    "special": [
+      "port"
+    ]
   }
 ]
