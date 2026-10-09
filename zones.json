@@ -4940,5 +4940,13 @@
     "special": [
       "port"
     ]
+  },
+   {
+    "id": 473,
+    "name": "Tung Sahur Horror",
+    "cover": "{COVER_URL}/473.png",
+    "url": "{HTML_URL}/473.html",
+    "author": "1games io",
+    "authorLink": "https://1games.io/tung-sahur-horror"
   }
 ]
