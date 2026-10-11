@@ -4956,5 +4956,27 @@
     "url": "{HTML_URL}/474.html",
     "author": "DelugeDrop",
     "authorLink": "https://delugedrop.itch.io/3dash"
+  },
+   {
+    "id": 475,
+    "name": "Sprunki Retake Grey Update (Regretful)",
+    "cover": "{COVER_URL}/475.png",
+    "url": "{HTML_URL}/475.html",
+    "author": "coolskull212",
+    "authorLink": "https://coolskull212again.itch.io",
+    "special": [
+      "incbox"
+    ]
+  },
+    {
+    "id": 476,
+    "name": "Sprunki Phase 3 - Remastered",
+    "cover": "{COVER_URL}/476.png",
+    "url": "{HTML_URL}/476.html",
+    "author": "VTLC",
+    "authorLink": "https://xvtlcx.itch.io/sprunkiphase3",
+    "special": [
+      "incbox"
+    ]
   }
 ]
