@@ -4978,5 +4978,16 @@
     "special": [
       "incbox"
     ]
+  },
+     {
+    "id": 477,
+    "name": "Whack Your Boss",
+    "cover": "{COVER_URL}/477.png",
+    "url": "{HTML_URL}/477.html",
+    "author": "Doodie",
+    "authorLink": "https://doodie.com",
+    "special": [
+      "flash"
+    ]
   }
 ]
