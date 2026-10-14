@@ -5020,5 +5020,32 @@
     "url": "{HTML_URL}/480.html",
     "author": "layaa",
     "authorLink": "https://yandex.com/games/app/mom-im-sleeping-289497"
+  },
+    {
+    "id": 481,
+    "name": "Baldi's Fun New School Ultimate",
+    "cover": "{COVER_URL}/481.png",
+    "url": "{HTML_URL}/481.html",
+    "author": "JohnsterSpaceGames",
+    "authorLink": "https://johnsterspacegames.itch.io/baldis-fun-new-school-ultimate"
+  },
+    {
+    "id": 482,
+    "name": "Baldi's Basics The Ultra Decompile",
+    "cover": "{COVER_URL}/482.png",
+    "url": "{HTML_URL}/482.html",
+    "author": "SeenWonderAlex",
+    "authorLink": "https://seenwonderalex.itch.io/baldis-basics-tud"
+  },
+      {
+    "id": 483,
+    "name": "Sonic 1 with St. Anger Drums (Metallica)",
+    "cover": "{COVER_URL}/483.png",
+    "url": "{HTML_URL}/483.html",
+    "author": "Selbi",
+    "authorLink": "https://www.youtube.com/@selbi182",
+    "special": [
+      "emulator"
+    ]
   }
 ]
