@@ -5025,7 +5025,7 @@
     "id": 481,
     "name": "Baldi's Fun New School Ultimate",
     "cover": "{COVER_URL}/481.png",
-    "url": "{HTML_URL}/481.html",
+    "url": "{HTML_URL}/481-f.html",
     "author": "JohnsterSpaceGames",
     "authorLink": "https://johnsterspacegames.itch.io/baldis-fun-new-school-ultimate"
   },
@@ -5046,6 +5046,28 @@
     "authorLink": "https://www.youtube.com/@selbi182",
     "special": [
       "emulator"
+    ]
+  },
+ {
+    "id": 484,
+    "name": "Raldi's Crackhouse",
+    "cover": "{COVER_URL}/484.png",
+    "url": "{HTML_URL}/484.html",
+    "author": "RCHTeam, Grayson",
+    "authorLink": "https://gamejolt.com/games/raldicrackhouse/769103",
+    "special": [
+      "port"
+    ]
+  },
+ {
+    "id": 485,
+    "name": "Gabriel's Awesome Schoolhouse (GASH)",
+    "cover": "{COVER_URL}/485.png",
+    "url": "{HTML_URL}/485.html",
+    "author": "Gabriel115GJ",
+    "authorLink": "https://gamejolt.com/games/GASH/877557",
+    "special": [
+      "port"
     ]
   }
 ]
