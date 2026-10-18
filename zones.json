@@ -2654,13 +2654,13 @@
     "author": "Gabriele Cirulli",
     "authorLink": "https://github.com/gabrielecirulli"
   },
-  {
+ {
     "id": 244,
-    "name": "Big Tower Tiny Square",
-    "cover": "{COVER_URL}/244.png",
-    "url": "{HTML_URL}/244.html",
-    "author": "EvilObjective",
-    "authorLink": "https://evilobjective.itch.io"
+    "name": "Soccer Random",
+    "cover": "{COVER_URL}/244-alt.png",
+    "url": "{HTML_URL}/244-alt.html",
+    "author": "RHM Interactive OÜ",
+    "authorLink": "https://play.google.com/store/apps/details?id=com.twoplayergames.soccerrandom"
   },
  {
     "id": 245,
@@ -5066,6 +5066,28 @@
     "url": "{HTML_URL}/485.html",
     "author": "Gabriel115GJ",
     "authorLink": "https://gamejolt.com/games/GASH/877557",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 486,
+    "name": "Big Money!",
+    "cover": "{COVER_URL}/486.png",
+    "url": "{HTML_URL}/486.html",
+    "author": "PopCap Games",
+    "authorLink": "https://store.steampowered.com/app/3360/Big_Money_Deluxe/",
+    "special": [
+      "flash"
+    ]
+  },
+  {
+    "id": 487,
+    "name": "Sonic Time Twisted",
+    "cover": "{COVER_URL}/487.png",
+    "url": "{HTML_URL}/487.html",
+    "author": "Overbound Game Studio",
+    "authorLink": "https://gamejolt.com/games/sonic-time-twisted/24775",
     "special": [
       "port"
     ]
