@@ -5288,7 +5288,7 @@
   "id": 512,
   "name": "Granny",
   "cover": "{COVER_URL}/512.png",
-  "url": "{HTML_URL}/512.html",
+  "url": "{HTML_URL}/512-f.html",
   "author": "DVloper",
   "authorLink": "https://grannyhorror.com/"
 },
@@ -5296,7 +5296,7 @@
   "id": 513,
   "name": "Granny 2",
   "cover": "{COVER_URL}/513.png",
-  "url": "{HTML_URL}/513.html",
+  "url": "{HTML_URL}/513-f.html",
   "author": "DVloper",
   "authorLink": "https://grannyhorror.com/"
 },
@@ -5304,7 +5304,7 @@
   "id": 514,
   "name": "OVENLESS BROWNIES",
   "cover": "{COVER_URL}/514.png",
-  "url": "{HTML_URL}/514.html",
+  "url": "{HTML_URL}/514-f.html",
   "author": "Wantho",
   "authorLink": "https://gamebanana.com/mods/721906"
 },
@@ -5312,7 +5312,7 @@
   "id": 515,
   "name": "Odio el chocolate",
   "cover": "{COVER_URL}/515.png",
-  "url": "{HTML_URL}/515.html",
+  "url": "{HTML_URL}/515-f.html",
   "author": "Wantho",
   "authorLink": "https://wantho.itch.io/odio-el-chocolate"
 }
