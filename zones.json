@@ -5326,5 +5326,29 @@
     "special": [
       "port"
     ]
-  }
+  },
+ {
+  "id": 517,
+  "name": "Sans in 3D",
+  "cover": "{COVER_URL}/517.png",
+  "url": "{HTML_URL}/517.html",
+  "author": "RDevelopments",
+  "authorLink": "https://rdevelopments.itch.io/sans-in-3dweb-build"
+},
+ {
+  "id": 518,
+  "name": "Baldi's Basics: Ps1 Style",
+  "cover": "{COVER_URL}/518.png",
+  "url": "{HTML_URL}/518.html",
+  "author": "Chao Things",
+  "authorLink": "https://chao-things.itch.io/baldis-basics-ps1-style"
+},
+  {
+  "id": 519,
+  "name": "Slendrina in Baldi's Basics",
+  "cover": "{COVER_URL}/519.png",
+  "url": "{HTML_URL}/519.html",
+  "author": "Apple225",
+  "authorLink": "https://apple225.itch.io/slendrina-in-baldis-basics"
+}
 ]
