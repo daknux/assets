@@ -5364,11 +5364,11 @@
   },
 {
     "id": 521,
-    "name": Toy Story",
+    "name": "Toy Story",
     "cover": "{COVER_URL}/521.png",
     "url": "{HTML_URL}/521.html",
-    "author": "Tt games, Disney Interactive Studios",
-    "authorLink": "https://www.ttgames.com/",
+    "author": "Tt Games, Disney",
+    "authorLink": "https://www.ttgames.com",
     "special": [
       "emulator"
     ]
