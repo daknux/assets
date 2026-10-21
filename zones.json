@@ -5361,5 +5361,16 @@
     "special": [
       "incbox"
     ]
+  },
+{
+    "id": 521,
+    "name": Toy Story (GENESIS)",
+    "cover": "{COVER_URL}/521.png",
+    "url": "{HTML_URL}/521.html",
+    "author": "Tt games, Disney Interactive Studios",
+    "authorLink": "https://www.ttgames.com/",
+    "special": [
+      "emulator"
+    ]
   }
 ]
