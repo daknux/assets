@@ -5388,5 +5388,17 @@
   "url": "{HTML_URL}/523.html",
   "author": "Yandex",
   "authorLink": "https://yandex.com/games/app/fnaf-6-salvage-room-268408"
-}
+},
+ {
+    "id": 524,
+    "name": "The Green Hill 8",
+    "cover": "{COVER_URL}/524.png",
+    "url": "{HTML_URL}/524.html",
+    "author": "Selbi",
+    "authorLink": "https://www.sonichacking.org/entries/contest2026/1440",
+    "featured": true,
+    "special": [
+      "emulator"
+    ]
+  }
 ]
