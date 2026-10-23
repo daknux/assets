@@ -5372,5 +5372,21 @@
     "special": [
       "emulator"
     ]
-  }
+  },
+   {
+  "id": 522,
+  "name": "Five Nights in Warehouse",
+  "cover": "{COVER_URL}/522.png",
+  "url": "{HTML_URL}/522.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games/app/five-nights-in-warehouse-fnaf-fan-game-271316"
+},
+   {
+  "id": 523,
+  "name": "FNAF 6: Salvage Room",
+  "cover": "{COVER_URL}/523.png",
+  "url": "{HTML_URL}/523.html",
+  "author": "Yandex",
+  "authorLink": "https://yandex.com/games/app/fnaf-6-salvage-room-268408"
+}
 ]
