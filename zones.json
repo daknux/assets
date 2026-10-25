@@ -5400,5 +5400,16 @@
     "special": [
       "emulator"
     ]
+  },
+  {
+    "id": 525,
+    "name": "Sonic Neon",
+    "cover": "{COVER_URL}/525.png",
+    "url": "{HTML_URL}/525.html",
+    "author": "Chainspike",
+    "authorLink": "https://shc.zone/entries/contest2026/1575",
+    "special": [
+      "emulator"
+    ]
   }
 ]
