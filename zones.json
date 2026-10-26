@@ -4470,7 +4470,7 @@
   },
      {
     "id": 424,
-    "name": "Somniphobia: DustTale",
+    "name": "Somniphobia Dusttale",
     "cover": "{COVER_URL}/424.png",
     "url": "{HTML_URL}/424.html",
     "author": "cross, camzzz",
@@ -5509,5 +5509,24 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 535,
+    "name": "DELTARUNE: Forecasted Restoration (UNFINISHED)",
+    "cover": "{COVER_URL}/535.png",
+    "url": "{HTML_URL}/535.html",
+    "author": "masondevelops1, RalseiRals",
+    "authorLink": "https://github.com/masondevelops1/forecasted-restoration",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 536,
+    "name": "Backrooms",
+    "cover": "{COVER_URL}/536.png",
+    "url": "{HTML_URL}/536.html",
+    "author": "Esyverse",
+    "authorLink": "https://esyverse.itch.io/"
   }
 ]
