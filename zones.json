@@ -5531,5 +5531,16 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 537,
+    "name": "Nameless Sonic Hack",
+    "cover": "{COVER_URL}/537.png",
+    "url": "{HTML_URL}/537.html",
+    "author": "NSoftwareReal",
+    "authorLink": "https://shc.zone/entries/contest2026/1425",
+    "special": [
+      "emulator"
+    ]
   }
 ]
