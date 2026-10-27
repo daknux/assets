@@ -5542,5 +5542,27 @@
     "special": [
       "emulator"
     ]
+  },
+ {
+    "id": 538,
+    "name": "Doki Doki Literature Club! Plus",
+    "cover": "{COVER_URL}/538.png",
+    "url": "{HTML_URL}/538.html",
+    "author": "Team Salvato",
+    "authorLink": "https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 539,
+    "name": "A Bite at Freddy's",
+    "cover": "{COVER_URL}/539.png",
+    "url": "{HTML_URL}/539.html",
+    "author": "Garrett McKay",
+    "authorLink": "https://garrett-mckay.itch.io/a-bite-at-freddys",
+    "special": [
+      "port"
+    ]
   }
 ]
