@@ -5608,5 +5608,24 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 544,
+    "name": "Jummbox",
+    "cover": "{COVER_URL}/544.png",
+    "url": "{HTML_URL}/544.html",
+    "author": "Jummbus",
+    "authorLink": "https://jummb.us/",
+    "special": [
+      "tools"
+    ]
+  },
+  {
+    "id": 545,
+    "name": "Granny Prison Escape",
+    "cover": "{COVER_URL}/545.png",
+    "url": "{HTML_URL}/545.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/granny-prison-escape-294647"
   }
 ]
