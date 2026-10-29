@@ -5627,5 +5627,16 @@
     "url": "{HTML_URL}/545.html",
     "author": "Yandex",
     "authorLink": "https://yandex.com/games/app/granny-prison-escape-294647"
+  },
+   {
+    "id": 546,
+    "name": "Incredibox Brunki",
+    "cover": "{COVER_URL}/546.png",
+    "url": "{HTML_URL}/546.html",
+    "author": "TheSpaceyMario Productions",
+    "authorLink": "https://www.cocrea.world/@MarioWiggle",
+    "special": [
+      "incbox"
+    ]
   }
 ]
