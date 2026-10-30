@@ -5628,7 +5628,7 @@
     "author": "Yandex",
     "authorLink": "https://yandex.com/games/app/granny-prison-escape-294647"
   },
-   {
+  {
     "id": 546,
     "name": "Incredibox Brunki",
     "cover": "{COVER_URL}/546.png",
@@ -5637,6 +5637,44 @@
     "authorLink": "https://www.cocrea.world/@MarioWiggle",
     "special": [
       "incbox"
+    ]
+  },
+  {
+    "id": 547,
+    "name": "i-Ready Games",
+    "cover": "{COVER_URL}/547.png",
+    "url": "{HTML_URL}/547-f.html",
+    "author": "Curriculum Associates",
+    "authorLink": "https://login.i-ready.com/"
+  },
+  {
+    "id": 548,
+    "name": "Osu! Mania V3",
+    "cover": "{COVER_URL}/548.png",
+    "url": "{HTML_URL}/548.html",
+    "author": "OliBomby",
+    "authorLink": "https://turbowarp.org/220672247"
+  },
+  {
+    "id": 549,
+    "name": "Yandere Simulator",
+    "cover": "{COVER_URL}/549.png",
+    "url": "{HTML_URL}/549.html",
+    "author": "YandereDev",
+    "authorLink": "https://yanderesimulator.com/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 551,
+    "name": "Gladihoppers",
+    "cover": "{COVER_URL}/551.png",
+    "url": "{HTML_URL}/551.html",
+    "author": "Dreamon Studios",
+    "authorLink": "https://dreamonstudios.itch.io/gladihoppers",
+    "special": [
+      "port"
     ]
   }
 ]
