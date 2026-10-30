@@ -5628,7 +5628,7 @@
     "author": "Yandex",
     "authorLink": "https://yandex.com/games/app/granny-prison-escape-294647"
   },
-  {
+   {
     "id": 546,
     "name": "Incredibox Brunki",
     "cover": "{COVER_URL}/546.png",
@@ -5639,7 +5639,7 @@
       "incbox"
     ]
   },
-  {
+   {
     "id": 547,
     "name": "i-Ready Games",
     "cover": "{COVER_URL}/547.png",
@@ -5660,6 +5660,17 @@
     "name": "Yandere Simulator",
     "cover": "{COVER_URL}/549.png",
     "url": "{HTML_URL}/549.html",
+    "author": "YandereDev",
+    "authorLink": "https://yanderesimulator.com/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 550,
+    "name": "Yandere Simulator (Updated)",
+    "cover": "{COVER_URL}/550.png",
+    "url": "{HTML_URL}/550.html",
     "author": "YandereDev",
     "authorLink": "https://yanderesimulator.com/",
     "special": [
