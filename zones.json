@@ -5698,5 +5698,16 @@
     "special": [
       "incbox"
     ]
+  },
+  {
+    "id": 553,
+    "name": "Minecraft: Story Mode",
+    "cover": "{COVER_URL}/553.png",
+    "url": "{HTML_URL}/553.html",
+    "author": "Telltale Games, Mojang Studios",
+    "authorLink": "https://telltale.com/",
+    "special": [
+      "port"
+    ]
   }
 ]
