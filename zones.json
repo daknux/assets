@@ -5709,5 +5709,17 @@
     "special": [
       "port"
     ]
+  },
+   {
+    "id": 554,
+    "name": "Clover Pit",
+    "cover": "{COVER_URL}/554.png",
+    "url": "{HTML_URL}/554.html",
+    "author": "Panik Arcade",
+    "authorLink": "https://store.steampowered.com/app/3314790/CloverPit/",
+    "special": [
+      "port"
+    ],
+    "featured": true
   }
 ]
