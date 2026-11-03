@@ -628,8 +628,7 @@
     "authorLink": "https://evanproductions.itch.io/five-nights-at-epsteins",
     "special": [
       "port"
-    ],
-    "featured": true
+    ]
   },
   {
     "id": 56,
@@ -5717,6 +5716,18 @@
     "url": "{HTML_URL}/554.html",
     "author": "Panik Arcade",
     "authorLink": "https://store.steampowered.com/app/3314790/CloverPit/",
+    "special": [
+      "port"
+    ],
+    "featured": true
+  },
+     {
+    "id": 555,
+    "name": "Undertale 2",
+    "cover": "{COVER_URL}/555.png",
+    "url": "{HTML_URL}/555.html",
+    "author": "Zizou",
+    "authorLink": "https://pep.itch.io/undertale-2",
     "special": [
       "port"
     ],
