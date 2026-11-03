@@ -5732,5 +5732,16 @@
       "port"
     ],
     "featured": true
+  },
+    {
+    "id": 556,
+    "name": "Knuckles in An Ordinary Sonic ROM Hack",
+    "cover": "{COVER_URL}/556.png",
+    "url": "{HTML_URL}/556.html",
+    "author": "ARMEVO, Stealth, Cinossu, Claude",
+    "authorLink": "https://armevo.itch.io/ordinary-s1k",
+    "special": [
+      "emulator"
+    ]
   }
 ]
