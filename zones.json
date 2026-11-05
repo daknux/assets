@@ -1849,12 +1849,11 @@
   },
   {
     "id": 167,
-    "name": "Garten of Banban",
+    "name": "Garten of Banban 2D",
     "cover": "{COVER_URL}/167.png",
     "url": "{HTML_URL}/167.html",
     "author": "Euphoric Brothers, vatsalnewar",
-    "authorLink": "https://www.euphoricbrothers.com//",
-    "featured": true
+    "authorLink": "https://scratch.mit.edu/projects/853663334/"
   },
   {
     "id": 168,
@@ -5743,5 +5742,17 @@
     "special": [
       "emulator"
     ]
+  },
+   {
+    "id": 557,
+    "name": "Garten of Banban 1",
+    "cover": "{COVER_URL}/557.png",
+    "url": "{HTML_URL}/557.html",
+    "author": "Euphoric Brothers",
+    "authorLink": "https://store.steampowered.com/app/2232840/Garten_of_Banban/",
+    "special": [
+      "port"
+    ],
+      "featured": true
   }
 ]
