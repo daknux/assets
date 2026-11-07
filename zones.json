@@ -5829,5 +5829,16 @@
     "url": "{HTML_URL}/566.html",
     "author": "Drud",
     "authorLink": "https://www.newgrounds.com/portal/view/659226"
+  },
+    {
+    "id": 567,
+    "name": "Bubsy in: Claws Encounters of the Furred Kind",
+    "cover": "{COVER_URL}/567.png",
+    "url": "{HTML_URL}/567.html",
+    "author": "Accolade, Atari",
+    "authorLink": "https://atari.com/",
+    "special": [
+      "emulator"
+    ]
   }
 ]
