@@ -5840,5 +5840,38 @@
     "special": [
       "emulator"
     ]
+  },
+  {
+    "id": 568,
+    "name": "The Joy of Creation: Story Mode",
+    "cover": "{COVER_URL}/568.png",
+    "url": "{HTML_URL}/568.html",
+    "author": "Nikson",
+    "authorLink": "https://gamejolt.com/games/tjocsm/139218",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 569,
+    "name": "Castle Crashers",
+    "cover": "{COVER_URL}/569.png",
+    "url": "{HTML_URL}/569.html",
+    "author": "The Behemoth",
+    "authorLink": "https://store.steampowered.com/app/204360/Castle_Crashers/",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 570,
+    "name": "Feed and Grow Fish",
+    "cover": "{COVER_URL}/570.png",
+    "url": "{HTML_URL}/570.html",
+    "author": "Old B1ood",
+    "authorLink": "https://store.steampowered.com/app/429050/Feed_and_Grow_Fish/",
+    "special": [
+      "port"
+    ]
   }
 ]
