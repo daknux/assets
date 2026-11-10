@@ -5884,5 +5884,16 @@
     "special": [
       "tools"
     ]
+  },
+    {
+    "id": 572,
+    "name": "Sonic 1 Mixed",
+    "cover": "{COVER_URL}/572.png",
+    "url": "{HTML_URL}/572.html",
+    "author": "Hame",
+    "authorLink": "https://sonicresearch.org/community/index.php?threads/sonic-1-mixed.6893/",
+    "special": [
+      "emulator"
+    ]
   }
 ]
