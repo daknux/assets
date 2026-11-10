@@ -5873,5 +5873,17 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 571,
+    "name": "Gemma 270m Chat",
+    "cover": "{COVER_URL}/571.png",
+    "url": "{HTML_URL}/571.html",
+    "author": "Google, rhulha",
+    "authorLink": "https://github.com/rhulha/Gemma3-270m-WebGPU",
+    "featured": true,
+    "special": [
+      "tools"
+    ]
   }
 ]
