@@ -5895,5 +5895,32 @@
     "special": [
       "emulator"
     ]
+  },
+    {
+    "id": 573,
+    "name": "Tanuki Sunset",
+    "cover": "{COVER_URL}/573.png",
+    "url": "{HTML_URL}/573.html",
+    "author": "Rewind Games",
+    "authorLink": "https://store.steampowered.com/app/1251460/Tanuki_Sunset/"
+  },
+      {
+    "id": 574,
+    "name": "To a Starling",
+    "cover": "{COVER_URL}/574.png",
+    "url": "{HTML_URL}/574.html",
+    "author": "Peteksi",
+    "authorLink": "https://peteksi.itch.io/to-a-starling"
+  },
+      {
+    "id": 575,
+    "name": "Madness Combat FPS: Fueled by Hotdogs",
+    "cover": "{COVER_URL}/575.png",
+    "url": "{HTML_URL}/575.html",
+    "author": "almost_friday",
+    "authorLink": "https://almost-friday.itch.io/fuelled-by-hot-dogs",
+    "special": [
+      "fps"
+    ]
   }
 ]
