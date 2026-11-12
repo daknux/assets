@@ -5933,5 +5933,16 @@
     "special": [
       "incbox"
     ]
+  },
+      {
+    "id": 577,
+    "name": "Guns, Gore & Cannoli",
+    "cover": "{COVER_URL}/577.png",
+    "url": "{HTML_URL}/577.html",
+    "author": "Rogueside",
+    "authorLink": "https://store.steampowered.com/app/322210/Guns_Gore_Cannoli/",
+    "special": [
+      "port"
+    ]
   }
 ]
