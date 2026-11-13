@@ -5944,5 +5944,21 @@
     "special": [
       "port"
     ]
+  },
+   {
+    "id": 578,
+    "name": "Blobby.io",
+    "cover": "{COVER_URL}/578.png",
+    "url": "{HTML_URL}/578.html",
+    "author": "hazzatazza",
+    "authorLink": "https://github.com/hazzatazza"
+  },
+   {
+    "id": 579,
+    "name": "Super Pickleball Adventure",
+    "cover": "{COVER_URL}/579.png",
+    "url": "{HTML_URL}/579.html",
+    "author": "andrfw",
+    "authorLink": "https://andrfw.itch.io/super-pickleball-adventure"
   }
 ]
