@@ -5960,5 +5960,16 @@
     "url": "{HTML_URL}/579.html",
     "author": "andrfw",
     "authorLink": "https://andrfw.itch.io/super-pickleball-adventure"
+  },
+     {
+    "id": 580,
+    "name": "Parodybox Sprunki",
+    "cover": "{COVER_URL}/580.png",
+    "url": "{HTML_URL}/580.html",
+    "author": "Yaggz",
+    "authorLink": "https://yaggzyjeanz.itch.io/",
+    "special": [
+      "incbox"
+    ]
   }
 ]
