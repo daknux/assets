@@ -5986,7 +5986,10 @@
     "cover": "{COVER_URL}/582.png",
     "url": "{HTML_URL}/582.html",
     "author": "Mentolatux",
-    "authorLink": "https://www.pacogames.com/developers/mentolatux"
+    "authorLink": "https://www.pacogames.com/developers/mentolatux",
+    "special": [
+      "fps"
+    ]
   },
      {
     "id": 583,
