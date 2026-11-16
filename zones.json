@@ -5971,5 +5971,32 @@
     "special": [
       "incbox"
     ]
+  },
+  {
+    "id": 581,
+    "name": "House of Hazards",
+    "cover": "{COVER_URL}/581.png",
+    "url": "{HTML_URL}/581.html",
+    "author": "New Eich Games",
+    "authorLink": "https://www.neweichgames.com"
+  },
+   {
+    "id": 582,
+    "name": "Pixel Gun Survival",
+    "cover": "{COVER_URL}/582.png",
+    "url": "{HTML_URL}/582.html",
+    "author": "Mentolatux",
+    "authorLink": "https://www.pacogames.com/developers/mentolatux"
+  },
+     {
+    "id": 583,
+    "name": "Hexic HD",
+    "cover": "{COVER_URL}/583.png",
+    "url": "{HTML_URL}/583.html",
+    "author": "Microsoft Studios",
+    "authorLink": "https://www.xbox.com/en-au/games/store/Hexic-HD/BXHL9BJH9XKC",
+    "special": [
+      "flash"
+    ]
   }
 ]
