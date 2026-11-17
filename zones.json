@@ -3557,7 +3557,7 @@
   {
     "id": 329,
     "name": "Friday Night Funkin': VS. Seek's Cool Deltarune",
-    "cover": "{COVER_URL}/329.png",
+    "cover": "{COVER_URL}/329-f.png",
     "url": "{HTML_URL}/329.html",
     "author": "seeksstuff",
     "authorLink": "https://gamebanana.com/mods/377938",
@@ -5830,7 +5830,7 @@
     "author": "Drud",
     "authorLink": "https://www.newgrounds.com/portal/view/659226"
   },
-    {
+  {
     "id": 567,
     "name": "Bubsy in: Claws Encounters of the Furred Kind",
     "cover": "{COVER_URL}/567.png",
@@ -5885,7 +5885,7 @@
       "tools"
     ]
   },
-    {
+  {
     "id": 572,
     "name": "Sonic 1 Mixed",
     "cover": "{COVER_URL}/572.png",
@@ -5896,7 +5896,7 @@
       "emulator"
     ]
   },
-    {
+  {
     "id": 573,
     "name": "Tanuki Sunset",
     "cover": "{COVER_URL}/573.png",
@@ -5904,7 +5904,7 @@
     "author": "Rewind Games",
     "authorLink": "https://store.steampowered.com/app/1251460/Tanuki_Sunset/"
   },
-      {
+  {
     "id": 574,
     "name": "To a Starling",
     "cover": "{COVER_URL}/574.png",
@@ -5912,7 +5912,7 @@
     "author": "Peteksi",
     "authorLink": "https://peteksi.itch.io/to-a-starling"
   },
-      {
+  {
     "id": 575,
     "name": "Madness Combat FPS: Fueled by Hotdogs",
     "cover": "{COVER_URL}/575.png",
@@ -5923,7 +5923,7 @@
       "fps"
     ]
   },
-   {
+  {
     "id": 576,
     "name": "Sprunki Phase 4 Out of The Box",
     "cover": "{COVER_URL}/576.png",
@@ -5934,7 +5934,7 @@
       "incbox"
     ]
   },
-      {
+  {
     "id": 577,
     "name": "Guns, Gore & Cannoli",
     "cover": "{COVER_URL}/577.png",
@@ -5945,7 +5945,7 @@
       "port"
     ]
   },
-   {
+  {
     "id": 578,
     "name": "Blobby.io",
     "cover": "{COVER_URL}/578.png",
@@ -5953,7 +5953,7 @@
     "author": "hazzatazza",
     "authorLink": "https://github.com/hazzatazza"
   },
-   {
+  {
     "id": 579,
     "name": "Super Pickleball Adventure",
     "cover": "{COVER_URL}/579.png",
@@ -5961,7 +5961,7 @@
     "author": "andrfw",
     "authorLink": "https://andrfw.itch.io/super-pickleball-adventure"
   },
-     {
+  {
     "id": 580,
     "name": "Parodybox Sprunki",
     "cover": "{COVER_URL}/580.png",
@@ -5980,7 +5980,7 @@
     "author": "New Eich Games",
     "authorLink": "https://www.neweichgames.com"
   },
-   {
+  {
     "id": 582,
     "name": "Pixel Gun Survival",
     "cover": "{COVER_URL}/582.png",
@@ -5991,7 +5991,7 @@
       "fps"
     ]
   },
-     {
+  {
     "id": 583,
     "name": "Hexic HD",
     "cover": "{COVER_URL}/583.png",
@@ -6001,5 +6001,334 @@
     "special": [
       "flash"
     ]
+  },
+  {
+    "id": 584,
+    "name": "Paint to Hide",
+    "cover": "{COVER_URL}/584.png",
+    "url": "{HTML_URL}/584.html",
+    "author": "Crazy Games",
+    "authorLink": "https://games.crazygames.com/en_US/paint-to-hide/index.html"
+  },
+  {
+    "id": 585,
+    "name": "Undertale Ultra Sans",
+    "cover": "{COVER_URL}/585.png",
+    "url": "{HTML_URL}/585.html",
+    "author": "LucasBr003",
+    "authorLink": "https://turbowarp.org/479342263"
+  },
+  {
+    "id": 586,
+    "name": "Poppy Playtime Chapter 1 (Clone)",
+    "cover": "{COVER_URL}/586.png",
+    "url": "{HTML_URL}/586.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/poppy-playtime-chapter-1-original-543853"
+  },
+  {
+    "id": 587,
+    "name": "Iron Friend",
+    "cover": "{COVER_URL}/587.png",
+    "url": "{HTML_URL}/587.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/iron-friend-387292"
+  },
+  {
+    "id": 588,
+    "name": "Pixilart Classic",
+    "cover": "{COVER_URL}/588.png",
+    "url": "{HTML_URL}/588.html",
+    "author": "Pixilart",
+    "authorLink": "https://www.pixilart.com/",
+    "special": [
+      "tools"
+    ]
+  },
+  {
+    "id": 589,
+    "name": "Pixilart New",
+    "cover": "{COVER_URL}/589.png",
+    "url": "{HTML_URL}/589.html",
+    "author": "Pixilart",
+    "authorLink": "https://www.pixilart.com/",
+    "special": [
+      "tools"
+    ]
+  },
+  {
+    "id": 590,
+    "name": "Robbie Horror: Escape from Capybara",
+    "cover": "{COVER_URL}/590.png",
+    "url": "{HTML_URL}/590.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/robbie-horror-escape-from-capybara-360833"
+  },
+  {
+    "id": 591,
+    "name": "Dandy's World (Clone)",
+    "cover": "{COVER_URL}/591.png",
+    "url": "{HTML_URL}/591.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/dandys-world-original-3d-412288"
+  },
+  {
+    "id": 592,
+    "name": "Undertale Promised",
+    "cover": "{COVER_URL}/592.png",
+    "url": "{HTML_URL}/592.html",
+    "author": "AleAtorio3_, Yandex",
+    "authorLink": "https://gamejolt.com/games/utpromised/775199"
+  },
+  {
+    "id": 593,
+    "name": "Undertale Stronger Monster",
+    "cover": "{COVER_URL}/593.png",
+    "url": "{HTML_URL}/593.html",
+    "author": "OneCJ",
+    "authorLink": "https://onecj.itch.io/usm"
+  },
+  {
+    "id": 594,
+    "name": "Exit the Backrooms: Level 94",
+    "cover": "{COVER_URL}/594.png",
+    "url": "{HTML_URL}/594-f.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/exit-the-backrooms-level-94-489050"
+  },
+  {
+    "id": 595,
+    "name": "Exit the Backrooms: Level 2",
+    "cover": "{COVER_URL}/595.png",
+    "url": "{HTML_URL}/595.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/exit-the-backrooms-level-2-394986"
+  },
+  {
+    "id": 596,
+    "name": "Exit the Backrooms: Level 0",
+    "cover": "{COVER_URL}/596.png",
+    "url": "{HTML_URL}/596.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/exit-the-backrooms-level-0-375973"
+  },
+  {
+    "id": 597,
+    "name": "Exit the Backrooms: Level 37",
+    "cover": "{COVER_URL}/597.png",
+    "url": "{HTML_URL}/597.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/exit-the-backrooms-level-37-364019"
+  },
+  {
+    "id": 598,
+    "name": "Robbie Horror: Granny in Backrooms",
+    "cover": "{COVER_URL}/598.png",
+    "url": "{HTML_URL}/598.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/robbie-horror-granny-in-backrooms-360932"
+  },
+  {
+    "id": 599,
+    "name": "99 Nights In The Backrooms",
+    "cover": "{COVER_URL}/599.png",
+    "url": "{HTML_URL}/599.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/99-nights-in-the-backrooms-542441"
+  },
+  {
+    "id": 600,
+    "name": "SCP-087: Into the Abyss",
+    "cover": "{COVER_URL}/600.png",
+    "url": "{HTML_URL}/600.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/scp-087-into-the-abyss-418827"
+  },
+  {
+    "id": 601,
+    "name": "Exit the Backrooms: Level Fun!",
+    "cover": "{COVER_URL}/601.png",
+    "url": "{HTML_URL}/601.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/exit-the-backrooms-level-fun-380357"
+  },
+  {
+    "id": 602,
+    "name": "FNAF: Freddy in The Backrooms",
+    "cover": "{COVER_URL}/602.png",
+    "url": "{HTML_URL}/602.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/fnaf-freddy-in-the-backrooms-378689"
+  },
+  {
+    "id": 603,
+    "name": "FNAF: Abandoned Pizzeria",
+    "cover": "{COVER_URL}/603.png",
+    "url": "{HTML_URL}/603.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/fnaf-abandoned-pizzeria-419476"
+  },
+  {
+    "id": 604,
+    "name": "Granny: Escape from the Madhouse",
+    "cover": "{COVER_URL}/604.png",
+    "url": "{HTML_URL}/604.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/granny-escape-from-the-madhouse-417280"
+  },
+  {
+    "id": 605,
+    "name": "UltraBox",
+    "cover": "{COVER_URL}/605.png",
+    "url": "{HTML_URL}/605.html",
+    "author": "UltraBox",
+    "authorLink": "https://github.com/ultraabox/ultrabox_typescript",
+    "special": [
+      "tools"
+    ]
+  },
+  {
+    "id": 606,
+    "name": "Slarmoo's Box",
+    "cover": "{COVER_URL}/606.png",
+    "url": "{HTML_URL}/606.html",
+    "author": "slarmoo",
+    "authorLink": "https://github.com/slarmoo/slarmoosbox",
+    "special": [
+      "tools"
+    ]
+  },
+  {
+    "id": 607,
+    "name": "Deltarune Yellow",
+    "cover": "{COVER_URL}/607.png",
+    "url": "{HTML_URL}/607.html",
+    "author": "toastemperor",
+    "authorLink": "https://gamejolt.com/games/deltaruneyellow/981988",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 608,
+    "name": "Undertale Icebound",
+    "cover": "{COVER_URL}/608.png",
+    "url": "{HTML_URL}/608.html",
+    "author": "LuciiiDLL",
+    "authorLink": "https://gamejolt.com/games/undertaleicebound/688804",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 609,
+    "name": "DELTARUNE: Ralsei Flirts With Kris",
+    "cover": "{COVER_URL}/609.png",
+    "url": "{HTML_URL}/609.html",
+    "author": "DuckRoguer",
+    "authorLink": "https://gamebanana.com/mods/692002",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 610,
+    "name": "DELTARUNE: Family Guy over 7 Flowers",
+    "cover": "{COVER_URL}/610.png",
+    "url": "{HTML_URL}/610.html",
+    "author": "jacksteinb",
+    "authorLink": "https://gamebanana.com/mods/700995",
+    "special": [
+      "port"
+    ]
+  },
+  {
+    "id": 611,
+    "name": "FNAF: Escape from the Basement",
+    "cover": "{COVER_URL}/611.png",
+    "url": "{HTML_URL}/611.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/fnaf-escape-from-the-basement-390467"
+  },
+  {
+    "id": 612,
+    "name": "FNAF: Escape from Bunker!",
+    "cover": "{COVER_URL}/612.png",
+    "url": "{HTML_URL}/612.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/fnaf-escape-from-bunker-564956"
+  },
+  {
+    "id": 613,
+    "name": "Friday Night Funkin Vs. Dave and Bambi v3",
+    "cover": "{COVER_URL}/613.png",
+    "url": "{HTML_URL}/613.html",
+    "author": "Dave and Bambi Team",
+    "authorLink": "https://gamebanana.com/mods/43201",
+    "special": [
+      "Fnf"
+    ]
+  },
+  {
+    "id": 614,
+    "name": "Friday Night Funkin Vs. Dave and Bambi: Golden Apple Edition",
+    "cover": "{COVER_URL}/614.png",
+    "url": "{HTML_URL}/614.html",
+    "author": "Jooseph",
+    "authorLink": "https://gamejolt.com/games/d_b_gapple_ARCHIVED_VERS/955788",
+    "special": [
+      "Fnf"
+    ]
+  },
+  {
+    "id": 615,
+    "name": "Friday Night Funkin Vs Bambi: Strident Crisisn",
+    "cover": "{COVER_URL}/615.png",
+    "url": "{HTML_URL}/615.html",
+    "author": "Riggy-Jr",
+    "authorLink": "https://gamejolt.com/games/its-strident/1004862",
+    "special": [
+      "Fnf"
+    ]
+  },
+  {
+    "id": 616,
+    "name": "Robbie Horror: Herobrine's Maze",
+    "cover": "{COVER_URL}/616.png",
+    "url": "{HTML_URL}/616.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/robbie-horror-herobrines-maze-355698"
+  },
+  {
+    "id": 617,
+    "name": "Robbie vs Slender: Forest Escape",
+    "cover": "{COVER_URL}/617.png",
+    "url": "{HTML_URL}/617.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/robbie-vs-slender-forest-escape-528245"
+  },
+  {
+    "id": 618,
+    "name": "Cloudy Dream",
+    "cover": "{COVER_URL}/618.png",
+    "url": "{HTML_URL}/618-f.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/cloudy-dream-562824"
+  },
+  {
+    "id": 619,
+    "name": "Lucid Dream 6",
+    "cover": "{COVER_URL}/619.png",
+    "url": "{HTML_URL}/619.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com.tr/games/app/lucid-dream-6-493836"
+  },
+  {
+    "id": 620,
+    "name": "SCP: Survive",
+    "cover": "{COVER_URL}/620.png",
+    "url": "{HTML_URL}/620.html",
+    "author": "Yandex",
+    "authorLink": "https://yandex.com/games/app/scp-survive-412439"
   }
 ]
