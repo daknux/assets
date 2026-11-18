@@ -6330,5 +6330,53 @@
     "url": "{HTML_URL}/620.html",
     "author": "Yandex",
     "authorLink": "https://yandex.com/games/app/scp-survive-412439"
+  },
+  {
+    "id": 621,
+    "name": "A Small World Cup",
+    "cover": "{COVER_URL}/621.png",
+    "url": "{HTML_URL}/621.html",
+    "author": "rujogames",
+    "authorLink": "https://rujogames.itch.io/a-small-world-cup"
+  },
+   {
+    "id": 622,
+    "name": "Treacherous Trials",
+    "cover": "{COVER_URL}/622.png",
+    "url": "{HTML_URL}/622.html",
+    "author": "Colon",
+    "authorLink": "https://gdcolon.itch.io/treacheroustrials"
+  },
+   {
+    "id": 623,
+    "name": "Treacherous Trials Plus",
+    "cover": "{COVER_URL}/623.png",
+    "url": "{HTML_URL}/623.html",
+    "author": "FoxSylv",
+    "authorLink": "https://foxsylv.itch.io/treacheroustrialsplus"
+  },
+     {
+    "id": 624,
+    "name": "MEGACHESS",
+    "cover": "{COVER_URL}/624.png",
+    "url": "{HTML_URL}/624.html",
+    "author": "Gorglomux",
+    "authorLink": "https://gorglomux.itch.io/megachess"
+  },
+  {
+    "id": 625,
+    "name": "Jetpack Joyride",
+    "cover": "{COVER_URL}/625.png",
+    "url": "{HTML_URL}/625.html",
+    "author": "Halfbrick Studios",
+    "authorLink": "https://www.halfbrick.com"
+  },
+  {
+    "id": 626,
+    "name": "Fruit Ninja",
+    "cover": "{COVER_URL}/626.png",
+    "url": "{HTML_URL}/626.html",
+    "author": "Halfbrick Studios",
+    "authorLink": "https://www.halfbrick.com/games/fruit-ninja-classic"
   }
 ]
