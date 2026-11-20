@@ -6378,5 +6378,13 @@
     "url": "{HTML_URL}/626.html",
     "author": "Halfbrick Studios",
     "authorLink": "https://www.halfbrick.com/games/fruit-ninja-classic"
+  },
+  {
+    "id": 627,
+    "name": "Baldi's Basics Full Game Public Demo",
+    "cover": "{COVER_URL}/627.png",
+    "url": "{HTML_URL}/627.html",
+    "author": "Basically Games",
+    "authorLink": "https://basically-games.itch.io/"
   }
 ]
