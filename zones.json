@@ -6397,5 +6397,17 @@
     "url": "{HTML_URL}/628.html",
     "author": "stargloom",
     "authorLink": "https://starsuar.itch.io/deltarune-halloween-special"
+  },
+   {
+    "id": 629,
+    "name": "Pac-Man Collection",
+    "cover": "{COVER_URL}/629.png",
+    "url": "{HTML_URL}/629.html",
+    "author": "Namco",
+    "authorLink": "https://bandainamco-am.co.jp/",
+    "special": [
+      "emulator",
+      "gba"
+    ]
   }
 ]
