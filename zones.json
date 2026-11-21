@@ -6389,5 +6389,13 @@
     "special": [
       "port"
     ]
+  },
+  {
+    "id": 628,
+    "name": "DELTARUNE HALLOWEEN SPECIAL",
+    "cover": "{COVER_URL}/628.png",
+    "url": "{HTML_URL}/628.html",
+    "author": "stargloom",
+    "authorLink": "https://starsuar.itch.io/deltarune-halloween-special"
   }
 ]
