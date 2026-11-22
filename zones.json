@@ -5510,9 +5510,9 @@
   },
   {
     "id": 535,
-    "name": "DELTARUNE: Forecasted Restoration (UNFINISHED)",
+    "name": "DELTARUNE: Forecasted",
     "cover": "{COVER_URL}/535.png",
-    "url": "{HTML_URL}/535.html",
+    "url": "{HTML_URL}/535-f.html",
     "author": "masondevelops1, RalseiRals",
     "authorLink": "https://github.com/masondevelops1/forecasted-restoration",
     "special": [
