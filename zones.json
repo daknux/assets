@@ -6409,5 +6409,24 @@
       "emulator",
       "gba"
     ]
+  },
+   {
+    "id": 630,
+    "name": "Ragdoll Soccer",
+    "cover": "{COVER_URL}/630.png",
+    "url": "{HTML_URL}/630.html",
+    "author": "99 Top Games",
+    "authorLink": "https://www.twoplayergames.org/game/ragdoll-soccer"
+  },
+  {
+    "id": 631,
+    "name": "Ravenbase",
+    "cover": "{COVER_URL}/631.png",
+    "url": "{HTML_URL}/631.html",
+    "author": "shxyder",
+    "authorLink": "https://docs.google.com/document/d/1_FmH3BlSBQI7FGgAQL59-ZPe8eCxs35wel6JUyVaG8Q/edit?tab=t.0",
+    "special": [
+      "fps"
+    ]
   }
 ]
