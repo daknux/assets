@@ -6428,5 +6428,16 @@
     "special": [
       "fps"
     ]
+  },
+  {
+    "id": 632,
+    "name": "Beatblox V1: The Drawing Board",
+    "cover": "{COVER_URL}/632.png",
+    "url": "{HTML_URL}/632.html",
+    "author": "adamk201",
+    "authorLink": "https://adamk201.itch.io/beatblox1",
+    "special": [
+      "incbox"
+    ]
   }
 ]
