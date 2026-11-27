@@ -6439,5 +6439,16 @@
     "special": [
       "incbox"
     ]
+  },
+  {
+    "id": 633,
+    "name": "Mom Hid My Game!",
+    "cover": "{COVER_URL}/633.png",
+    "url": "{HTML_URL}/633.html",
+    "author": "Hap Inc, Kemco",
+    "authorLink": "https://www.nintendo.com/us/store/products/mom-hid-my-game-switch/",
+    "special": [
+      "flash"
+    ]
   }
 ]
