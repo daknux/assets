@@ -6450,5 +6450,21 @@
     "special": [
       "flash"
     ]
+  },
+     {
+    "id": 634,
+    "name": "Switchblade",
+    "cover": "{COVER_URL}/634.png",
+    "url": "{HTML_URL}/634.html",
+    "author": "rubic",
+    "authorLink": "https://rubic.itch.io/switchblade"
+  },
+    {
+    "id": 635,
+    "name": "We Become What We Behold",
+    "cover": "{COVER_URL}/635.png",
+    "url": "{HTML_URL}/635.html",
+    "author": "Ncase",
+    "authorLink": "https://ncase.itch.io/wbwwb"
   }
 ]
